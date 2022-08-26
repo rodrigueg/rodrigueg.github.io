@@ -1,5 +1,5 @@
 +++
-title = "Rodrigue Govan - About"
+title = "Rodrigue Govan"
 +++
 
 ## About
