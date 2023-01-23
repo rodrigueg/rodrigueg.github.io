@@ -44,7 +44,7 @@ At the end, Rodrigue got his Master's degree with honors.
 
 </span>
 
-## BSc. Aplied Math and Computer Science (2014 to 2017) —— University of Bordeaux (France)
+## BSc. Applied Math and Computer Science (2014 to 2017) —— University of Bordeaux (France)
 
 <span style='text-align: justify;'>
 
