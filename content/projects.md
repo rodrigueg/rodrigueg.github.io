@@ -6,7 +6,9 @@ title = "Rodrigue Govan - Projects"
 
 <span style='text-align: justify;'>
 
-Rodrigue participated in a 4-persons group to the 1st CASSINI Hackathon edition. The Hackathon's theme was "Digitising Green Spaces 2021". After 3 days, the team (named SANDLESS) presented their project to the French jury member. After deliberation, SANDLESS won the first prize and reached to the european final. To defend their project, SANDLESS had to prepare a short video to introduce the project and pass a Q&A step with the european jury members. After deliberation, SANDLESS got the 3rd place at the european final. Then, SANDLESS got offered a 100 hours mentorship program with Business and Marketing experts.
+Rodrigue participated in a 4-persons group to the 1st CASSINI Hackathon edition. The Hackathon's theme was "Digitising Green Spaces 2021". After 3 days, the team (named SANDLESS) presented their project to the French jury members. After deliberation, SANDLESS won the first prize and reached to the european final. To defend their project, SANDLESS had to prepare a short video to introduce the project and pass a Q&A step with the european jury members. After deliberation, SANDLESS got the 3rd place at the european final. Then, SANDLESS got offered a 100 hours mentorship program with Business and Marketing experts.
+  
+The mentorship program went from September 2021 to February 2022. Under the supervision of Dany Robberecht and Benoit De Vrieze, SANDLESS had as mentors: Carlos Bello Marcos (INNOVA4EU), Miguel Ángel López Trujillo (Lean Sales), Jasmina Ristic (Horizer) and Marco Poliafico (GE Renewable Energy).
 
 <u>Team name</u>: SANDLESS (<b>S</b>oftware to <b>A</b>nalyze <b>N</b>atural <b>D</b>ata to <b>L</b>ower <b>E</b>cological <b>S</b>tress with <b>S</b>atellites)
 
