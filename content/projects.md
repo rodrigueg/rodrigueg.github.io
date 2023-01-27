@@ -6,13 +6,20 @@ title = "Rodrigue Govan - Projects"
 
 <span style='text-align: justify;'>
 
-Rodrigue participated in a 4-persons group to the 1st CASSINI Hackathon edition. The Hackathon's theme was "Digitising Green Spaces 2021". After 3 days, the team (named SANDLESS) presented their project to the French jury members. After deliberation, SANDLESS won the first prize and reached to the european final. To defend their project, SANDLESS had to prepare a short video to introduce the project and pass a Q&A step with the european jury members. After deliberation, SANDLESS got the 3rd place at the european final. Then, SANDLESS got offered a 100 hours mentorship program with Business and Marketing experts.
-  
- The mentorship program went from September 2021 to February 2022. Under the supervision of Dany Robberecht and Benoit De Vrieze, SANDLESS had as mentors: Carlos Bello Marcos (INNOVA4EU), Miguel Ángel López Trujillo (Lean Sales), Jasmina Ristic (Horizer) and Marco Poliafico (GE Renewable Energy).
+Rodrigue participated in a 4-persons group to the 1st CASSINI Hackathon edition. The Hackathon's theme was "Digitising Green Spaces 2021". After 3 days, the team (named SANDLESS) presented their project to the French jury member. After deliberation, SANDLESS won the first prize and reached to the european final. To defend their project, SANDLESS had to prepare a short video to introduce the project and pass a Q&A step with the european jury members. After deliberation, SANDLESS got the 3rd place at the european final. Then, SANDLESS got offered a 100 hours mentorship program with Business and Marketing experts.
 
 <u>Team name</u>: SANDLESS (<b>S</b>oftware to <b>A</b>nalyze <b>N</b>atural <b>D</b>ata to <b>L</b>ower <b>E</b>cological <b>S</b>tress with <b>S</b>atellites)
 
 <u>Team members</u>: <a href="https://www.linkedin.com/in/erwan-aulnette" target="_blank">Erwan Aulnette</a>, <a href="https://www.linkedin.com/in/guillaumecouarch" target="_blank">Guillaume Couarc'h</a>, <a href="https://www.linkedin.com/in/rodrigueg/" target="_blank"><b>Rodrigue Govan</b></a> and <a href="https://www.linkedin.com/in/romanescherrer" target="_blank">Romane Scherrer</a>.
+
+<div style="display:inline-block; justify-content: center;">
+  <img align="left" width=75 src="/eaulnette.jpg" alt="Erwan Aulnette" style="border-radius: 50%; margin:10px;">
+  <img align="left" width=75 src="/gcouarch.jpg" alt="Guillaume Couarc'h" style="border-radius: 50%; margin:10px;">
+  <img align="left" width=75 src="/rgovan.jpg" alt="Rodrigue Govan" style="border-radius: 50%; margin:10px;">
+  <img align="left" width=75 src="/rscherrer.jpg" alt="Romane Scherrer" style="border-radius: 50%; margin:10px;">
+</div>
+
+<br>
 
 <u>The proposed project</u>: A software analyzing satellites, social, economical and environmental data of cities from all over the world in order to help decision-makers to build their own city.
 
@@ -31,6 +38,11 @@ During his master's degree, Rodrigue participated in a 2-persons group to a inte
 <u>Team name</u>: BumBumDATAm
 
 <u>Team members</u>: <a href="https://www.linkedin.com/in/rodrigueg/" target="_blank"><b>Rodrigue Govan</b></a> and <a href="https://www.linkedin.com/in/jason-siffre" target="_blank">Jason Siffre</a>.
+
+<div style="display:inline-block; justify-content: center;">
+  <img align="left" width=75 src="/rgovan.jpg" alt="Rodrigue Govan" style="border-radius: 50%; margin:10px;">
+  <img align="left" width=75 src="/jsiffre.jpg" alt="Jason Siffre" style="border-radius: 50%; margin:10px;">
+</div>
 
 <u>The work environment</u>: Python (Tensorflow, Keras, sklearn), Jupyter notebook framework.
 
