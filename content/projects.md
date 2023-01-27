@@ -13,11 +13,6 @@ Rodrigue participated in a 4-persons group to the 1st CASSINI Hackathon edition.
 <u>Team name</u>: SANDLESS (<b>S</b>oftware to <b>A</b>nalyze <b>N</b>atural <b>D</b>ata to <b>L</b>ower <b>E</b>cological <b>S</b>tress with <b>S</b>atellites)
 
 <u>Team members</u>: <a href="https://www.linkedin.com/in/erwan-aulnette" target="_blank">Erwan Aulnette</a>, <a href="https://www.linkedin.com/in/guillaumecouarch" target="_blank">Guillaume Couarc'h</a>, <a href="https://www.linkedin.com/in/rodrigueg/" target="_blank"><b>Rodrigue Govan</b></a> and <a href="https://www.linkedin.com/in/romanescherrer" target="_blank">Romane Scherrer</a>.
-  
-<img class="avatar" src="/rgovan.jpg" alt="Rodrigue Govan">
-<img class="avatar" src="/rgovan.jpg" alt="Rodrigue Govan">
-<img class="avatar" src="/rgovan.jpg" alt="Rodrigue Govan">
-<img class="avatar" src="/rgovan.jpg" alt="Rodrigue Govan">
 
 <u>The proposed project</u>: A software analyzing satellites, social, economical and environmental data of cities from all over the world in order to help decision-makers to build their own city.
 
