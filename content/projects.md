@@ -43,7 +43,7 @@ During his master's degree, Rodrigue participated in a 2-persons group to a inte
 
 <div style="display:inline-block; justify-content: center;">
   <img align="left" width=75 src="/rgovan.jpg" alt="Rodrigue Govan" style="border-radius: 50%; margin:10px;">
-  <img align="left" width=75 src="/jsiffre.jpg" alt="Jason Siffre" style="border-radius: 50%; margin:10px;">
+  <img align="left" width=75 src="/jsiffre.jpg" alt="Jason Siffre" style="border-radius: 50%; margin:10px;;-webkit-filter: grayscale(100%);filter:grayscale(100%)">
 </div>
 
 <u>The work environment</u>: Python (Tensorflow, Keras, sklearn), Jupyter notebook framework.
