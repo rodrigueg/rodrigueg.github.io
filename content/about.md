@@ -8,7 +8,7 @@ title = "Rodrigue Govan"
 
 After a B.Sc. and a M.Sc. in Applied Math at the University of Bordeaux (France), Rodrigue is currently a PhD Student in Computer Science at the University of New Caledonia, in the Institute of Exact and Applied Sciences ([ISEA](https://isea.unc.nc/)).
 
-Rodrigue's research interests are Data Science, Machine/Deep Learning, Graph Theory, Computer Vision and Geographic Informaion Systems. He is studying the use of graph theory applied to the risk mapping of Leptospirosis in New Caledonia.
+Rodrigue's research interests are Data Science, Machine/Deep Learning, Graph Theory, Computer Vision and Geographic Information Systems. He is studying the use of graph theory applied to the risk mapping of Leptospirosis in New Caledonia.
 
 <hr>
 
