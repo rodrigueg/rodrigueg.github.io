@@ -20,7 +20,7 @@ During this thesis, Rodrigue is giving classes to Bachelor student. His main cou
 
 ## Publications
 
-0. <span style='text-align: justify;'><b>Govan, R.</b>, Selmaoui, N., Giannakos, A., Fournier-Viger, P. (2019). Co-location pattern mining under the spatial structure constraint. Proc. 34th International Conference on Database and Expert Systems Applications (DEXA 2023), Springer, to appear.</span>
+0. <span style='text-align: justify;'><b>Govan, R.</b>, Selmaoui, N., Giannakos, A., Fournier-Viger, P. (2023). Co-location pattern mining under the spatial structure constraint. Proc. 34th International Conference on Database and Expert Systems Applications (DEXA 2023), Springer, to appear.</span>
 0. <span style='text-align: justify;'><b>Govan, R.</b>, Selmaoui-Folcher, N., Giannakos, A., Fournier-Viger, P. (2023) Extraction de co-localisations sous contrainte de la structure spatiale. Actes de la Conférence Nationale en Intelligence Artificielle 2023 (Proc. of the National conference of Artificial Intelligence of France).</span>
 0. <span style='text-align: justify;'>Scherrer, R., <b>Govan, R.</b>, Quiniou, T., Jauffrais, T., Lemonnier, H., Bonnet, S., & Selmaoui-Folcher, N. (2022). Real-Time Automatic Plankton Detection, Tracking and Classification on Raw Hologram. In <i>International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics</i> (pp. 25-39). Springer, Cham.</span>
 0. <span style='text-align: justify;'>Tokotoko, J., <b>Govan, R.</b>, Lemonnier, H., & Selmaoui-Folcher, N. (2022). Multiscale and Multivariate Time Series Clustering: A New Approach. In <i>International Symposium on Methodologies for Intelligent Systems</i> (pp. 283-293). Springer, Cham.</span>
