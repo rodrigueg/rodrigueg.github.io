@@ -14,7 +14,7 @@ disableKinds = []
   #  url = "https://github.com/etiennetack/etiennetack.github.io"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
-    pageWidth = "750px"
+    pageWidth = "850px"
     avatarSize = "100px"
     colorBlack = "#121212"
     colorRed = "#dc3545"
@@ -26,6 +26,9 @@ disableKinds = []
     #   icon = "fas fa-envelope"
     #   title = "E-mail"
     #   url = "mailto:e.tack@insight.nc"
+
+  [params.markup]
+    liste_numerotee_inverse = true
 
   [permalinks]
     "/" = "/:filename"
