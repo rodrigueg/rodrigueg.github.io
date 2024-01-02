@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigue Govan</title>
+    <link>https://rodrigueg.github.io/</link>
+    <description>Recent content on Rodrigue Govan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://rodrigueg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rodrigue Govan</title>
+      <link>https://rodrigueg.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rodrigueg.github.io/about/</guid>
+      <description>About After a B.Sc. and a M.Sc. in Applied Math at the University of Bordeaux (France), Rodrigue is currently a PhD Student in Computer Science at the University of New Caledonia, in the Institute of Exact and Applied Sciences (ISEA).&#xA;Rodrigue&amp;rsquo;s research interests are Data Science, Machine/Deep Learning, Graph Theory, Computer Vision and Geographic Information Systems. He is studying the use of graph theory applied to the risk mapping of Leptospirosis in New Caledonia.</description>
+    </item>
+    <item>
+      <title>Rodrigue Govan - Background</title>
+      <link>https://rodrigueg.github.io/background/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rodrigueg.github.io/background/</guid>
+      <description>Professional Data Scientist (September 2020 to December 2020) —— ISEA, University of New Caledonia Rodrigue got recruited at the ISEA laboratory as a Data Scientist. He got assigned to the following project: Analysis of freshwater and groundwater data in New Caledonia. During the project, Rodrigue used various statistic methods in order to define a threshold of potability of the water in New Caledonia. He also developed a user-friendly interface to visualize his analysis (with maps, correlation tests, PCA, &amp;hellip;).</description>
+    </item>
+    <item>
+      <title>Rodrigue Govan - Projects</title>
+      <link>https://rodrigueg.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rodrigueg.github.io/projects/</guid>
+      <description>CASSINI.eu Hackathon (1st Edition, June 2021) Rodrigue participated in a 4-persons group to the 1st CASSINI Hackathon edition. The Hackathon&amp;rsquo;s theme was &amp;ldquo;Digitising Green Spaces 2021&amp;rdquo;. After 3 days, the team (named SANDLESS) presented their project to the French jury members. After deliberation, SANDLESS won the first prize and reached to the european final. To defend their project, SANDLESS had to prepare a short video to introduce the project and pass a Q&amp;amp;A step with the european jury members.</description>
+    </item>
+    <item>
+      <title>Rodrigue Govan - Research</title>
+      <link>https://rodrigueg.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rodrigueg.github.io/research/</guid>
+      <description>PhD. thesis Rodrigue is currently a PhD Student in Computer Science. His thesis is named &amp;ldquo;Evolving and Dynamic Attributed Graphs: Application to the dynamic risk mapping of Leptospirosis in New Caledonia&amp;rdquo;. It aims to integrate multi-source data (social, economic, demographic, environmental, animal, &amp;hellip;) into graph networks in order to mine knowledge to understand which variables contribute the most in the incidence rate of Leptospirosis. The thesis is divided into two major parts: spatial analysis and temporal analysis.</description>
+    </item>
+  </channel>
+</rss>
