@@ -4,7 +4,7 @@ title = "Rodrigue Govan - Background"
 
 # Professional
 
-## Data Scientist (September 2020 to December 2020) —— ISEA, University of New Caledonia
+### Data Scientist (September 2020 to December 2020) —— ISEA, University of New Caledonia
 
 <span style='text-align: justify;'>
 
@@ -18,7 +18,7 @@ During this period, Rodrigue also had the opportunity to integrate the Data mini
 
 </span>
 
-## Data Scientist intern (February 2019 to August 2019) —— IDAIA Group, Bordeaux (France)
+### Data Scientist intern (February 2019 to August 2019) —— IDAIA Group, Bordeaux (France)
 
 <span style='text-align: justify;'>
 
@@ -34,7 +34,7 @@ To validate his degree, Rodrigue did a 6-months internship in a data-driven mark
 
 # Academic
 
-## MSc. Applied Math (2017 to 2019) —— University of Bordeaux (France)
+### MSc. Applied Math (2017 to 2019) —— University of Bordeaux (France)
 
 <span style='text-align: justify;'>
 
@@ -44,7 +44,7 @@ At the end, Rodrigue got his Master's degree with honors.
 
 </span>
 
-## BSc. Applied Math and Computer Science (2014 to 2017) —— University of Bordeaux (France)
+### BSc. Applied Math and Computer Science (2014 to 2017) —— University of Bordeaux (France)
 
 <span style='text-align: justify;'>
 

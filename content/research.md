@@ -23,6 +23,8 @@ During this thesis, Rodrigue is giving classes to Bachelor student. His main cou
 <style>
 td, th {
    border: none!important;
+   background-color: white;
+   vertical-align: top;
 }
 </style>
 <div style="margin-top:-25px;"></div>
