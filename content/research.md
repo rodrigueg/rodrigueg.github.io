@@ -10,9 +10,9 @@ Rodrigue is currently a PhD Student in Computer Science. His thesis is named "Ev
 
 Since the thesis is in the field of Computer Science, it makes possible to adapt the modeling to other epidemiological phenomena but also anthropogenic phenomena.
 
-This thesis is under supervision of Pr. Nazha Selmaoui-Folcher, Full Professor in Computer Science at the University of New Caledonia and Pr. Philippe Fournier-Viger, Distinguished Professor in Computer Science at the Shenzhen University (China).
+This thesis is under supervision of <a href="https://isea.unc.nc/membres/selmaoui-folcher/" target="_blank">Pr. Nazha Selmaoui-Folcher</a>, Full Professor in Computer Science at the University of New Caledonia and <a href="https://www.philippe-fournier-viger.com" target="_blank">Pr. Philippe Fournier-Viger</a>, Distinguished Professor in Computer Science at the Shenzhen University (China).
 
-During this thesis, Rodrigue is giving classes to Bachelor student. His main courses involve Advanced programming in Python, Graph Theory and Database management.
+During this thesis, Rodrigue is giving classes to Bachelor students. His main courses involve Advanced programming in Python, Graph Theory and Database management.
 
 </span>
 

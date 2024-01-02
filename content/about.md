@@ -29,3 +29,4 @@ Rodrigue's research interests are Data Science, Machine/Deep Learning, Graph The
 * GitHub: [rodrigueg](https://github.com/rodrigueg)
 * Linkedin: [rodrigueg](https://linkedin.com/in/rodrigueg)
 * Research Gate: [link](https://www.researchgate.net/profile/Rodrigue-Govan)
+* ORCiD: [0000-0002-4087-7056](https://orcid.org/0000-0002-4087-7056)
