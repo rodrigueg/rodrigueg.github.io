@@ -7,7 +7,7 @@ disableKinds = []
 [params]
   author = "Rodrigue Govan"
   description = "PhD Student in Computer Science"
-  # favicon = "favicon.ico"  # path to a .ico to use as favicon
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  #url or path to a logo to put in the header
   [params.footer]
   #  text = "footer"
