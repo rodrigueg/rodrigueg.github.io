@@ -9,6 +9,8 @@ disableKinds = []
   description = "PhD Student in Computer Science"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  #url or path to a logo to put in the header
+  [param.meta]
+    favicon = false
   [params.footer]
   #  text = "footer"
   #  url = "https://github.com/etiennetack/etiennetack.github.io"
