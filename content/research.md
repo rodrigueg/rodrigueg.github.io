@@ -13,6 +13,14 @@ layout: "simple"
 
 Rodrigue is a Doctor in Computer Science (Data Science). His thesis is entitled "_Deep Learning on Attributed Graphs for Mapping Leptospirosis Risk_". He defended his PhD in August 2025 at the University of New Caledonia.
 
+The thesis committee was composed of:
+- Dr. Christophe Menkès, Senior Research Scientist, Chair -- ENTROPIE, French National Research Institute for Sustainable Development, New Caledonia
+- Dr. Thomas Guyet, Full Researcher, Reviewer -- AIstroSight, INRIA, Lyon, France
+- Pr. Luiz-Angelo Steffenel, Full Professor, Reviewer -- LICIIS, Université de Reims Champagne-Ardenne, France
+- Dr. Cyrille Goarant, Habilitated Research Scientist, Examiner -- Public Health Department, South Pacific Community, New Caledonia
+- Dr. Corina Iovan, Research Scientist, Examiner -- ENTROPIE, French National Research Institute for Sustainable Development, New Caledonia
+- Pr. Nadia Kabachi, Full Professor, Examiner -- ERIC, University Claude Bernard Lyon 1, France
+
 This thesis explored supervised learning methods applied to the risk mapping of leptospirosis in New Caledonia. To do so, a holistic approach is considered, by collecting, pre-processing and integrating a broad spectrum of variables, whether they are meteorological, environmental or socio-demographical. The risk mapping has been conducted according the leptospirosis surveillance data from 2011 to 2022, on a spatial scale finer than the municipal level, and on a monthly time step. This spatio-temporal granularity therefore posed a real challenge of imbalanced data. Combined with several sampling strategies, two approaches were developed.
 
 The first approach involved an ensemble learning, coupled with under-sampling and hybrid sampling strategies for model training, as well as weighted prediction to optimize the approach's effectiveness. Given conclusive results, an explainability component was developed, enabling the identification of most contributing factors to the leptospirosis risk. Despite satisfying results, this first approach required a large number of supervised learning models.

@@ -12,6 +12,14 @@ layout: "simple"
 
 Je suis Docteur en Informatique (_Data Science_). L'intitulé de ma thèse est "_Apprentissage profond des graphes attribués pour la cartographie du risque de leptospirose_". J'ai défendu ma thèse en Août 2025 à l'Université de la Nouvelle-Calédonie.
 
+Les membres du jury de la thèse sont :
+- Dr. Christophe Menkès, Directeur de Recherche, **Président** -- ENTROPIE, Institut de Recherche pour le Développement, Nouvelle-Calédonie
+- Dr. Thomas Guyet, Chargé de Recherche (HDR), **Rapporteur** -- AIstroSight, Centre INRIA, Lyon, France
+- Pr. Luiz-Angelo Steffenel, Professeur des Universités, **Rapporteur** -- LICIIS, Université de Reims Champagne-Ardenne, France
+- Dr. Cyrille Goarant, Chercheur (HDR), **Examinateur** -- Département de Santé Publique, Communauté du Pacifique, Nouvelle-Calédonie
+- Dr. Corina Iovan, Chargée de Recherche, **Examinateur** -- ENTROPIE, Institut de Recherche pour le Développement, Nouvelle-Calédonie
+- Pr. Nadia Kabachi, Professeure des Universités, **Examinateur** -- ERIC, Université Claude Bernard Lyon 1, France
+
 Cette thèse a exploré les méthodes d'apprentissage supervisé appliquées à la cartographie du risque de leptospirose en Nouvelle-Calédonie. Pour cela, une approche holistique est considérée, en collectant, pré-traitant et intégrant une large variété de données, qu'elles soient météorologiques, environnementales ou socio-démographiques. La cartographie du risque a été réalisée à l'aide de l'ensemble des cas de leptospirose entre 2011 et 2022, à une échelle spatiale plus fine que celle de la commune, le tout sur un pas de temps mensuel. Cette granularité spatio-temporelle s'est alors traduite en un véritable défi de données déséquilibrées. Couplées à maintes stratégies d'échantillonnage des données, deux approches ont été développées.
 
 La première approche intègre un apprentissage ensembliste combiné à des stratégies de sous-échantillonnage et d'échantillonnage hybride pour l'apprentissage des modèles, ainsi qu'à des prédictions pondérées pour optimiser l'efficacité de cette approche. Face aux résultats concluants de cette approche ensembliste, une composante d'explicabilité est développée, permettant d'identifier les facteurs contribuant au risque de leptospirose. Cette première approche, bien que donnant des résultats satisfaisants, a nécessité l'utilisation de multiples modèles d'apprentissage supervisé.
@@ -20,7 +28,7 @@ En parallèle, cette thèse a exploré les méthodes de réseaux de neurones de 
 
 Les contributions présentées dans cette thèse, qu'elles soient méthodologiques ou applicatives, offrent de nouvelles opportunités pour d'autres phénomènes sanitaires et anthropiques.
 
-Cette thèse a été sous la supervision de <a href="https://isea.unc.nc/membres/selmaoui-folcher/" target="_blank">Pr Nazha Selmaoui-Folcher</a>, Professeur des Universités en Informatique à l'Université de la Nouvelle-Calédonie, et <a href="https://www.philippe-fournier-viger.com" target="_blank">Pr Philippe Fournier-Viger</a>, Professeur Émérite en Informatique à l'Université de Shenzhen (Chine).
+Cette thèse a été sous la supervision de <a href="https://isea.unc.nc/membres/selmaoui-folcher/" target="_blank">Pr Nazha Selmaoui-Folcher</a>, Professeur des Universités en Informatique à l'Université de la Nouvelle-Calédonie, et <a href="https://www.philippe-fournier-viger.com" target="_blank">Pr Philippe Fournier-Viger</a>, Professeur en Informatique à l'Université de Shenzhen (Chine).
 
 Durant cette thèse, j'ai également dispensé des enseignements aux étudiants de niveau Licence/DEUST. Mes enseignements ont inclus notamment l'algorithmique et programmation en Python, la théorie des graphes, ainsi que la gestion et manipulation de bases de données.
 

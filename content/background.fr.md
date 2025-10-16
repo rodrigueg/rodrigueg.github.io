@@ -44,6 +44,16 @@ Pour valider son diplôme de Master, Rodrigue a réalisé un stage de 6 mois dan
 
 ## Académique
 
+### Doctorat, Informatique - _Data Science_ (Octobre 2021 à Août 2025) -- Université de la Nouvelle-Calédonie
+
+<span style='text-align: justify;'>
+
+Rodrigue a soutenu sa thèse en Informatique le 21 Août 2025 à l'Université de la Nouvelle-Calédonie. Sa thèse s'intitule "_Apprentissage profond des graphes attribués pour la cartographie du risque de leptospirose_" et a été réalisée sous la direction de Pr. Nazha Selmaoui-Folcher de l'Université de la Nouvelle-Calédonie et Pr. Philippe Fournier-Viger de la _Shenzhen University_ en Chine.
+
+Voir la section <a href="../research">Recherche</a> pour plus d'informations.
+
+</span>
+
 ### Master, Mathématiques Appliquées et Statistiques (2017 à 2019) —— Université de Bordeaux (France)
 
 <span style='text-align: justify;'>

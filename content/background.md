@@ -13,7 +13,7 @@ _My full resume is available [here](resume.pdf)._
 
 ## Professional
 
-### Data Scientist (September 2020 to December 2020) —— ISEA, University of New Caledonia
+### Data Scientist (September 2020 to December 2020) -- ISEA, University of New Caledonia
 
 <span style='text-align: justify;'>
 
@@ -28,7 +28,7 @@ During this period, Rodrigue also had the opportunity to integrate the Data Scie
 
 <hr style="width:75%">
 
-### Data Scientist Intern (February 2019 to August 2019) —— IDAIA Group, Bordeaux (France)
+### Data Scientist Intern (February 2019 to August 2019) -- IDAIA Group, Bordeaux (France)
 
 <span style='text-align: justify;'>
 
@@ -43,7 +43,17 @@ To validate his degree, Rodrigue did a 6-months internship in a data-driven mark
 
 ## Academic
 
-### Master of Science, Applied Mathematics (2017 to 2019) —— University of Bordeaux (France)
+### Doctorate, Computer Science - _Data Science_ (October 2021 to August 2025) -- University of New Caledonia
+
+<span style='text-align: justify;'>
+
+Rodrigue defended his PhD in Computer on August, 21<sup>st</sup> 2025 at the University of New Caledonia. His thesis is entitled "_Deep Learning on Attributed Graphs for Mapping Leptospirosis Risk_" and was under the supervision of Prof. Nazha Selmaoui-Folcher from the University of New Caledonia, and Prof. Philippe Fournier-Viger from Shenzhen University, in China.
+
+Go to the <a href="../research">Research</a> section for more information.
+
+</span>
+
+### Master of Science, Applied Mathematics (2017 to 2019) -- University of Bordeaux (France)
 
 <span style='text-align: justify;'>
 
@@ -55,7 +65,7 @@ Rodrigue got his Master's degree in Applied Mathematics in 2019 at the Universit
 
 <hr style="width:75%">
 
-### Bachelor of Science, Applied Mathematics and Computer Science (2014 to 2017) —— University of Bordeaux (France)
+### Bachelor of Science, Applied Mathematics and Computer Science (2014 to 2017) -- University of Bordeaux (France)
 
 <span style='text-align: justify;'>
 
