@@ -11,8 +11,6 @@ layout: "simple"
 
 Hi there! I am Rodrigue Govan, I'm french, and currently living in _Nouméa_ (New Caledonia). I am a Doctor in Computer Science at the University of New Caledonia ([UNC](https://unc.nc)).
 
-I am passionate about tech, and love to experiment anything that has to do with it. This website is actually part of it as it is hosted on a [Raspberry Pi 5](https://www.raspberrypi.com/), using [Docker](https://www.docker.com/) engine. It is powered by [Hugo](https://gohugo.io/) framework with [Congo](https://jpanther.github.io/congo/) theme.
-
 <hr>
 
 # My equipment

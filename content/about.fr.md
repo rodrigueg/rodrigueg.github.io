@@ -10,8 +10,6 @@ layout: "simple"
 
 Salut ! Je m'appelle Rodrigue Govan et suis actuellement à _Nouméa_ (Nouvelle-Calédonie). Je suis Docteur en Informatique de l'Université de la Nouvelle-Calédonie ([UNC](https://unc.nc)).
 
-Je suis passionné par la tech, et j'adore tester des projets autour de la tech. Ce site web en est notamment un exemple, puisqu'il est hébergé sur une [Raspberry Pi 5](https://www.raspberrypi.com/), utilisant [Docker](https://www.docker.com). Le site est propulsé par [Hugo](https://gohugo.io/) avec le thème [Congo](https://jpanther.github.io/congo/).
-
 <hr>
 
 # Mon matériel

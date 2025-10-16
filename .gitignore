@@ -21,3 +21,5 @@ hugo.linux
 
 # Project specific files
 .DS_Store
+rodrigueg.github.io.code-workspace
+deploy.sh
