@@ -20,4 +20,4 @@ hugo.linux
 .lighthouseci
 
 # Project specific files
-TODO
+.DS_Store
