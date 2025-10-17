@@ -1,8 +1,0 @@
-.prose {
-  .table { overflow: hidden;
-display: -webkit-box;
--webkit-box-orient: vertical;
--webkit-line-clamp: 1; };
-},
-/*  change prose width for shiggles */
-.max-w-prose { max-width:100% !important; }

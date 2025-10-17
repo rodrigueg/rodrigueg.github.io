@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigue Govan</title>
+    <link>/fr/</link>
+    <description>Recent content on Rodrigue Govan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>/fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/fr/about/</guid>
+      <description>Salut !</description>
+    </item>
+    <item>
+      <title>Enseignements</title>
+      <link>/fr/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/fr/teaching/</guid>
+      <description>Vous trouverez ici l’ensemble des enseignements que Rodrigue dispense.</description>
+    </item>
+    <item>
+      <title>Parcours</title>
+      <link>/fr/background/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/fr/background/</guid>
+      <description>Mon CV complet est disponible ici.</description>
+    </item>
+    <item>
+      <title>Projets</title>
+      <link>/fr/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/fr/projects/</guid>
+      <description>CASSINI.</description>
+    </item>
+    <item>
+      <title>Recherche</title>
+      <link>/fr/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/fr/research/</guid>
+      <description>Rodrigue Govan est titulaire d&amp;rsquo;un Doctorat en Informatique (Data Science).</description>
+    </item>
+  </channel>
+</rss>
