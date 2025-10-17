@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>/fr/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="/fr/about/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/fr/teaching/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/teaching/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="/fr/teaching/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>/fr/background/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/background/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="/fr/background/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>/fr/projects/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/projects/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="/fr/projects/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>/fr/research/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/research/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="/fr/research/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>/fr/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="/fr/"
+              />
+          </url>
+    
+  
+    
+  
+</urlset>
