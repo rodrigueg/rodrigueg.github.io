@@ -22,7 +22,7 @@ For this project, Rodrigue applied various statistical methods to define a drink
 
 During this period, Rodrigue also had the opportunity to join the Data Science research team. As a result, he contributed to the writing of two research papers, focusing respectively on time series analysis and image processing.
 
-<u>Work environment</u>: Python (TensorFlow, scikit-learn, seaborn, Plotly, Dash, ...), Jupyter Notebook, QGIS, Microsoft Access, PostgreSQL.
+<u>Work environment</u>: Python (TensorFlow, scikit-learn, seaborn, Plotly, Dash, ...), Jupyter Notebook, QGIS, Microsoft Access, PostgreSQL.\
 <u>Institute website</u>: <a href="https://isea.unc.nc/" target="_blank">ISEA</a>
 
 </span>
@@ -37,7 +37,7 @@ To complete his Master’s degree, Rodrigue completed a six-month internship at 
 
 During his internship, Rodrigue analyzed more than 200 million images (approximately 2 TB of data). Thanks to his optimized algorithm, he successfully processed the entire dataset in two months instead of the initially estimated five years, earning praise from the company’s Research and Development team.
 
-<u>Work environment</u>: Python (TensorFlow, PyTorch, scikit-learn, seaborn, Plotly, ...), Jupyter Notebook framework, QGIS.
+<u>Work environment</u>: Python (TensorFlow, PyTorch, scikit-learn, seaborn, Plotly, ...), Jupyter Notebook framework, QGIS.\
 <u>Company website</u>: <a href="https://www.idaia.group/" target="_blank">IDAIA Group</a>
 
 </span>

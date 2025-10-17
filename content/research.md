@@ -13,13 +13,31 @@ layout: "simple"
 
 Rodrigue <span style="font-variant:small-caps;">Govan</span> holds a Ph.D. in Computer Science (Data Science). His dissertation is entitled "_Deep Learning on Attributed Graphs for Mapping Leptospirosis Risk_". He defended his thesis on August 21, 2025, at the University of New Caledonia.
 
+This thesis was conducted under the supervision of <a href="https://isea.unc.nc/membres/selmaoui-folcher/" target="_blank">Nazha <span style="font-variant:small-caps;">Selmaoui-Folcher</span></a>, Full Professor of Computer Science at the University of New Caledonia, and <a href="https://www.philippe-fournier-viger.com" target="_blank">Philippe <span style="font-variant:small-caps;">Fournier-Viger</span></a>, Distinguished Professor of Computer Science at Shenzhen University (China).
+
 The members of the thesis committee were as follows:
-- Dr. Christophe <span style="font-variant:small-caps;">Menkès</span>, Senior Research Scientist, **Chair** -- <span style="font-variant:small-caps;">Entropie</span>, French National Research Institute for Sustainable Development, New Caledonia
-- Dr. Thomas <span style="font-variant:small-caps;">Guyet</span>, Full Researcher, **Reviewer** -- AIstroSight, INRIA, Lyon, France
-- Pr. Luiz-Angelo <span style="font-variant:small-caps;">Steffenel</span>, Full Professor, **Reviewer** -- LICIIS, Université de Reims Champagne-Ardenne, France
-- Dr. Cyrille <span style="font-variant:small-caps;">Goarant</span>, Habilitated Research Scientist, **Examiner** -- Public Health Department, South Pacific Community (SPC), New Caledonia
-- Dr. Corina <span style="font-variant:small-caps;">Iovan</span>, Research Scientist, **Examiner** -- <span style="font-variant:small-caps;">Entropie</span>, French National Research Institute for Sustainable Development, New Caledonia
-- Pr. Nadia <span style="font-variant:small-caps;">Kabachi</span>, Full Professor, **Examiner** -- ERIC, Claude Bernard University Lyon 1, France
+<ul style="margin-top:-1em">
+  <li style="line-height: 150%">
+    Christophe <span style="font-variant:small-caps;">Menkès</span>, Senior Research Scientist, <b>Chair</b> -- <span style="font-variant:small-caps;">Entropie</span>, French National Research Institute for Sustainable Development, New Caledonia
+  </li>
+  <li style="line-height: 150%">
+    Thomas <span style="font-variant:small-caps;">Guyet</span>, Full Researcher, <b>Reviewer</b> -- AIstroSight, INRIA, Lyon, France
+  </li>
+  <li style="line-height: 150%">
+    Luiz-Angelo <span style="font-variant:small-caps;">Steffenel</span>, Full Professor, <b>Reviewer</b> -- LICIIS, Université de Reims Champagne-Ardenne, France
+  </li>
+  <li style="line-height: 150%">
+    Cyrille <span style="font-variant:small-caps;">Goarant</span>, Habilitated Research Scientist, <b>Examiner</b> -- Public Health Department, South Pacific Community (SPC), New Caledonia
+  </li>
+  <li style="line-height: 150%">
+    Corina <span style="font-variant:small-caps;">Iovan</span>, Research Scientist, <b>Examiner</b> -- <span style="font-variant:small-caps;">Entropie</span>, French National Research Institute for Sustainable Development, New Caledonia
+  </li>
+  <li style="line-height: 150%">
+    Nadia <span style="font-variant:small-caps;">Kabachi</span>, Full Professor, <b>Examiner</b> -- ERIC, Claude Bernard University Lyon 1, France
+  </li>
+</ul>
+
+The Ph.D. manuscript is currently being prepared for publication, but the defense presentation is available [here](https://www.youtube.com/watch?v=7AvJPTxWxPU).
 
 This thesis explored supervised learning methods applied to leptospirosis risk mapping in New Caledonia. A holistic approach was adopted, involving the collection, preprocessing, and integration of a wide range of data, including meteorological, environmental, and socio-demographic variables. Risk mapping was performed using all leptospirosis cases recorded between 2011 and 2022, at a spatial scale finer than the municipality level, and on a monthly temporal resolution. This spatio-temporal granularity introduced a significant challenge of imbalanced data. Combined with several data sampling strategies, two main approaches were developed.
 
@@ -28,8 +46,6 @@ The first approach integrates ensemble learning with under-sampling and hybrid s
 In parallel, the thesis investigated graph neural network (GNN) methods, specifically the problem of optimal reduction of attributed graphs within a GNN model by combining existing pooling techniques. This hybrid method, named <span style="font-variant: small-caps;">SpaPool</span>, proved comparable to existing methods, while demonstrating a certain advantage when dealing with small attributed graphs. Given the effectiveness of attributed graph representations, the second approach for leptospirosis risk mapping was based on a single GNN model. Combined with various sampling strategies, this approach yielded promising results, achieving more balanced sensitivity and specificity scores than the ensemble-based approach.
 
 The contributions presented in this thesis, both methodological and applicative, open new opportunities for studying other health-related and anthropogenic phenomena.
-
-This thesis was conducted under the supervision of <a href="https://isea.unc.nc/membres/selmaoui-folcher/" target="_blank">Nazha <span style="font-variant:small-caps;">Selmaoui-Folcher</span></a>, Full Professor of Computer Science at the University of New Caledonia, and <a href="https://www.philippe-fournier-viger.com" target="_blank">Philippe <span style="font-variant:small-caps;">Fournier-Viger</span></a>, Professor of Computer Science at Shenzhen University (China).
 
 During his Ph.D., Rodrigue also taught undergraduate students (Bachelor’s and DEUST levels). His teaching activities included algorithm design and Python programming, graph theory, as well as database management and manipulation.
 

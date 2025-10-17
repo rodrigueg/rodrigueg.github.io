@@ -12,13 +12,31 @@ layout: "simple"
 
 Rodrigue <span style="font-variant:small-caps;">Govan</span> est titulaire d'un Doctorat en Informatique (_Data Science_). L'intitulé de sa thèse est "_Apprentissage profond des graphes attribués pour la cartographie du risque de leptospirose_". Il a défendu sa thèse le 21 Août 2025 à l'Université de la Nouvelle-Calédonie.
 
+Cette thèse a été réalisée sous la supervision de <a href="https://isea.unc.nc/membres/selmaoui-folcher/" target="_blank">Nazha <span style="font-variant:small-caps;">Selmaoui-Folcher</span></a>, Professeur des Universités en Informatique à l'Université de la Nouvelle-Calédonie, et <a href="https://www.philippe-fournier-viger.com" target="_blank">Philippe <span style="font-variant:small-caps;">Fournier-Viger</span></a>, Professeur en Informatique à l'Université de Shenzhen (Chine).
+
 Les membres du jury de la thèse sont les suivants :
-- Dr. Christophe <span style="font-variant:small-caps;">Menkès</span>, Directeur de Recherche, **Président** -- <span style="font-variant:small-caps;">Entropie</span>, Institut de Recherche pour le Développement, Nouvelle-Calédonie
-- Dr. Thomas <span style="font-variant:small-caps;">Guyet</span>, Chargé de Recherche (HDR), **Rapporteur** -- AIstroSight, Centre INRIA, Lyon, France
-- Pr. Luiz-Angelo <span style="font-variant:small-caps;">Steffenel</span>, Professeur des Universités, **Rapporteur** -- LICIIS, Université de Reims Champagne-Ardenne, France
-- Dr. Cyrille <span style="font-variant:small-caps;">Goarant</span>, Chercheur (HDR), **Examinateur** -- Département de Santé Publique, Communauté du Pacifique, Nouvelle-Calédonie
-- Dr. Corina <span style="font-variant:small-caps;">Iovan</span>, Chargée de Recherche, **Examinateur** -- <span style="font-variant:small-caps;">Entropie</span>, Institut de Recherche pour le Développement, Nouvelle-Calédonie
-- Pr. Nadia <span style="font-variant:small-caps;">Kabachi</span>, Professeure des Universités, **Examinateur** -- ERIC, Université Claude Bernard Lyon 1, France
+<ul style="margin-top:-1em">
+  <li style="line-height: 150%">
+    Christophe <span style="font-variant:small-caps;">Menkès</span>, Directeur de Recherche, <b>Président</b> — <span style="font-variant:small-caps;">Entropie</span>, Institut de Recherche pour le Développement, Nouvelle-Calédonie
+  </li>
+  <li style="line-height: 150%">
+    Thomas <span style="font-variant:small-caps;">Guyet</span>, Chargé de Recherche (HDR), <b>Rapporteur</b> — AIstroSight, Centre INRIA, Lyon, France
+  </li>
+  <li style="line-height: 150%">
+    Luiz-Angelo <span style="font-variant:small-caps;">Steffenel</span>, Professeur des Universités, <b>Rapporteur</b> — LICIIS, Université de Reims Champagne-Ardenne, France
+  </li>
+  <li style="line-height: 150%">
+    Cyrille <span style="font-variant:small-caps;">Goarant</span>, Chercheur (HDR), <b>Examinateur</b> — Département de Santé Publique, Communauté du Pacifique, Nouvelle-Calédonie
+  </li>
+  <li style="line-height: 150%">
+    Corina <span style="font-variant:small-caps;">Iovan</span>, Chargée de Recherche, <b>Examinateur</b> — <span style="font-variant:small-caps;">Entropie</span>, Institut de Recherche pour le Développement, Nouvelle-Calédonie
+  </li>
+  <li style="line-height: 150%">
+    Nadia <span style="font-variant:small-caps;">Kabachi</span>, Professeure des Universités, <b>Examinateur</b> — ERIC, Université Claude Bernard Lyon 1, France
+  </li>
+</ul>
+
+Le manuscrit de thèse est actuellement en cours de publication, mais la soutenance est disponible [ici](https://www.youtube.com/watch?v=7AvJPTxWxPU).
 
 Cette thèse a exploré les méthodes d'apprentissage supervisé appliquées à la cartographie du risque de leptospirose en Nouvelle-Calédonie. Pour cela, une approche holistique est considérée, en collectant, pré-traitant et intégrant une large variété de données, qu'elles soient météorologiques, environnementales ou socio-démographiques. La cartographie du risque a été réalisée à l'aide de l'ensemble des cas de leptospirose entre 2011 et 2022, à une échelle spatiale plus fine que celle de la commune, le tout sur un pas de temps mensuel. Cette granularité spatio-temporelle s'est alors traduite en un véritable défi de données déséquilibrées. Couplées à maintes stratégies d'échantillonnage des données, deux approches ont été développées.
 
@@ -27,8 +45,6 @@ La première approche intègre un apprentissage ensembliste combiné à des stra
 En parallèle, cette thèse a exploré les méthodes de réseaux de neurones de graphes (GNN), plus précisément la problématique de la réduction optimale de graphes attribués au sein d'un modèle de GNN, en combinant les méthodes de pooling de la littérature. Cette méthode hybride, nommée <span style="font-variant: small-caps;">SpaPool</span>, s'est avérée équivalente aux méthodes existantes, mais montre une certaine supériorité lorsqu'il s'agit de graphes attribués de petite taille. La représentation en graphes attribués étant particulièrement efficace, la seconde approche de cartographie du risque de leptospirose a été développée à partir d'un modèle unique de GNN. Couplée à diverses stratégies d'échantillonnage, cette approche a donné des résultats prometteurs, avec des scores de sensibilité et de spécificité plus homogènes que l'approche ensembliste.
 
 Les contributions présentées dans cette thèse, qu'elles soient méthodologiques ou applicatives, offrent de nouvelles opportunités pour d'autres phénomènes sanitaires et anthropiques.
-
-Cette thèse a été réalisée sous la supervision de <a href="https://isea.unc.nc/membres/selmaoui-folcher/" target="_blank">Nazha <span style="font-variant:small-caps;">Selmaoui-Folcher</span></a>, Professeur des Universités en Informatique à l'Université de la Nouvelle-Calédonie, et <a href="https://www.philippe-fournier-viger.com" target="_blank">Philippe <span style="font-variant:small-caps;">Fournier-Viger</span></a>, Professeur en Informatique à l'Université de Shenzhen (Chine).
 
 Durant cette thèse, Rodrigue a également dispensé des enseignements aux étudiants de niveaux Licence et DEUST. Ses enseignements ont inclus notamment l'algorithmique et la programmation en Python, la théorie des graphes, ainsi que la gestion et manipulation de bases de données.
 
