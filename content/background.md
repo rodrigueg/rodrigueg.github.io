@@ -35,7 +35,7 @@ During this period, Rodrigue also had the opportunity to join the Data Science r
 
 To complete his Master’s degree, Rodrigue completed a six-month internship at a small-to-medium enterprise (SME) specializing in data-driven marketing. He was assigned to a Deep Learning project, where he developed an object detection method based on Deep Learning techniques to identify residential swimming pools from satellite imagery.
 
-During his internship, Rodrigue analyzed more than 200 million images (approximately 2 TB of data). Thanks to his optimized algorithm, he successfully processed the entire dataset in two months instead of the initially estimated five years, earning praise from the company’s Research and Development team.
+During his internship, Rodrigue analyzed more than 200 million images (approximately 2TB of data). Thanks to his optimized algorithm, he successfully processed the entire dataset in two months instead of the initially estimated five years, earning praise from the company’s Research and Development team.
 
 <u>Work environment</u>: Python (TensorFlow, PyTorch, scikit-learn, seaborn, Plotly, ...), Jupyter Notebook framework, QGIS.\
 <u>Company website</u>: <a href="https://www.idaia.group/" target="_blank">IDAIA Group</a>
