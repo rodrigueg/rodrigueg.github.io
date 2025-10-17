@@ -7,7 +7,7 @@ layout: "simple"
 ---
 <!-- {{< katex >}} -->
 
-Vous trouverez ici l’ensemble des enseignements que je dispense.
+Vous trouverez ici l’ensemble des enseignements que Rodrigue dispense.
 
 ## Université de la Nouvelle-Calédonie
 

@@ -9,7 +9,7 @@ layout: "simple"
 
 <span style="text-align:justify;">
 
-Hi there! I am Rodrigue Govan, I'm french, and currently living in _Nouméa_ (New Caledonia). I am a Doctor in Computer Science at the University of New Caledonia ([UNC](https://unc.nc)).
+Hello! My name is Rodrigue <span style="font-variant:small-caps;">Govan</span> and I am currently based in Nouméa, New Caledonia. I hold a Ph.D. in Computer Science from the University of New Caledonia ([UNC](https://unc.nc)).
 
 <hr>
 

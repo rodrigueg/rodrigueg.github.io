@@ -22,12 +22,14 @@ layout: "simple"
 
 <span style='text-align: justify;'>
 
-Rodrigue participated in a 4-persons group to the 1st CASSINI Hackathon edition. The Hackathon's theme was "Digitising Green Spaces 2021". After 3 days, the team (named SANDLESS) presented their project to the French jury members. After deliberation, SANDLESS won the first prize and reached to the european final. To defend their project, SANDLESS had to prepare a short video to introduce the project and pass a Q&A step with the european jury members. After deliberation, SANDLESS got the 3rd place at the european final. Then, SANDLESS got offered a 100-hours mentorship program with Business and Marketing experts.
+Rodrigue participated in a team of four at the first CASSINI Hackathon. The theme of the hackathon was "_Digitalization of Green Spaces_". After three days, the team, named __SANDLESS__, presented their project to the French jury. SANDLESS won first prize and qualified for the European final.
 
-The mentorship program went from September 2021 to February 2022. Under the supervision of Dany Robberecht and Benoit De Vrieze, SANDLESS had as mentors: Carlos Bello Marcos (INNOVA4EU), Miguel Ángel López Trujillo (Lean Sales), Jasmina Ristic (Horizer) and Marco Poliafico (GE Renewable Energy).
+To defend their project in the final, SANDLESS prepared a short video presentation and participated in a Q&A session with the European jury. After deliberation, SANDLESS achieved 3<sup>rd</sup> place in Europe and was awarded a 100-hour mentorship program with experts in Business and Marketing.
+
+The mentorship program took place between September 2021 and February 2022. Under the supervision of Dany Robberecht and Benoit de Vrieze, SANDLESS followed the program with the following mentors: Carlos Bello Marcos (INNOVA4EU), Miguel Ángel López Trujillo (Lean Sales), Jasmina Ristic (Horizer), and Marco Poliafico (GE Renewable Energy).
 
 <u>Team name</u>: SANDLESS (<b>S</b>oftware to <b>A</b>nalyze <b>N</b>atural <b>D</b>ata to <b>L</b>ower <b>E</b>cological <b>S</b>tress with <b>S</b>atellites).\
-<u>Team members</u>: <a href="https://www.linkedin.com/in/erwan-aulnette" target="_blank">Erwan Aulnette</a>, <a href="https://www.linkedin.com/in/guillaumecouarch" target="_blank">Guillaume Couarc'h</a>, <a href="https://www.linkedin.com/in/rodrigueg/" target="_blank"><b>Rodrigue Govan</b></a> and <a href="https://www.linkedin.com/in/romanescherrer" target="_blank">Romane Scherrer</a>.
+<u>Team members</u>: <a href="https://www.linkedin.com/in/erwan-aulnette" target="_blank">Erwan Aulnette</a>, <a href="https://www.linkedin.com/in/guillaumecouarch" target="_blank">Guillaume Couarc'h</a>, <a href="https://www.linkedin.com/in/rodrigueg/" target="_blank"><b>Rodrigue Govan</b></a>, and <a href="https://www.linkedin.com/in/romanescherrer" target="_blank">Romane Scherrer</a>.
 
 <div style="display:inline-block; justify-content: center;">
   <a href="https://www.linkedin.com/in/erwan-aulnette" target="_blank"><img align="left" width=75 src="/images/erwan-aulnette.jpg" alt="Erwan Aulnette" class="faces"></a>
@@ -38,8 +40,8 @@ The mentorship program went from September 2021 to February 2022. Under the supe
 
 <br>
 
-<u>The proposed project</u>: A software analyzing satellites, social, economical and environmental data of cities from all over the world in order to help decision-makers to build their own city.\
-<u>Link to the Hackathon website</u>: <a href="https://www.cassini.eu/hackathons/portfolio" target="_blank">CASSINI.eu</a>
+<u>Proposed project</u>: A software platform for analyzing satellite, social, economic, and environmental data for any city in the world, designed to help decision-makers build greener cities.\
+<u>Hackathon website</u>: <a href="https://www.cassini.eu/hackathons/portfolio" target="_blank">CASSINI.eu</a>
 
 </span>
 
@@ -49,7 +51,10 @@ The mentorship program went from September 2021 to February 2022. Under the supe
 
 <span style='text-align: justify;'>
 
-During his master's degree, Rodrigue participated in a 2-persons group to a inter-school contest organized by the engineering school INSA Toulouse in collaboration with Airbus Defence and Space. The goal was to classify satellite images to determine whether or not the image contains a wind turbine. After 4 months of hardworking, the team (named BumBumDATAm) finished at the 7th place with a 97.7% accuracy score (the winner got a 98.1% accuracy score). The team had to present their solution at INSA Toulouse in front of the rest of the participants and the jury (including a Computer Vision expert from Airbus Defence and Space). The team was particularly congratulated for the simplicity of the solution given the final accuracy score.
+During his Master’s program, Rodrigue participated in a pair in an inter-university competition (similar to [Kaggle](https://www.kaggle.com/)) organized by the Institut National des Sciences Appliquées (INSA) Toulouse in collaboration with Airbus Defence and Space. The objective was to develop a satellite image classification method to determine the presence or absence of wind turbines.
+After four months of work, the team, named BumBumDATAm, achieved 7<sup>th</sup> place with an accuracy score of 97.7% (the winning team achieved 98.1%). The team was invited to INSA Toulouse to present their solution in front of other participants and organizers, including an image processing expert from Airbus Defence and Space.
+
+    The team was particularly praised for the simplicity of their approach, given their final score.
 
 <u>Team name</u>: BumBumDATAm.\
 <u>Team members</u>: <a href="https://www.linkedin.com/in/rodrigueg/" target="_blank"><b>Rodrigue Govan</b></a> and <a href="https://www.linkedin.com/in/jason-siffre" target="_blank">Jason Siffre</a>.

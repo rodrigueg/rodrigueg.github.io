@@ -48,7 +48,8 @@ Le programme de mentorat s'est déroulé en Septmbre 2021 et Février 2022. Sous
 
 <span style='text-align: justify;'>
 
-Durant son cursus de Master, Rodrigue a participé en binôme à un concours inter-universitaire (de type [Kaggle](https://www.kaggle.com/)) organisé par l'Institut National de Sciences Appliquées (INSA) de Toulouse en collaboration avec _Airbus Defence and Space_. Le but était de développer une méthode de classification d'images satellitaires afin d'y déterminer l'absence (ou présence) d'éolienne. Après 4 mois de travaux, l'équipe (nommée BumBumDATAm) s'est hissée à la 7<sup>ème</sup> place avec un score d'_accuracy_ de 97.7% (l'équipe gagnante a obtenu un score final de 98.1%). L'équipe s'est donc rendue à l'INSA Toulouse afin de présenter leur solution devant les autres participants et les organisateurs (incluant un expert en traitement d'images d'_Airbus Defence and Space_). 
+Durant son cursus de Master, Rodrigue a participé en binôme à un concours inter-universitaire (de type [Kaggle](https://www.kaggle.com/)) organisé par l'Institut National de Sciences Appliquées (INSA) de Toulouse en collaboration avec _Airbus Defence and Space_. Le but était de développer une méthode de classification d'images satellitaires afin d'y déterminer l'absence (ou présence) d'éolienne. Après 4 mois de travaux, l'équipe (nommée BumBumDATAm) s'est hissée à la 7<sup>ème</sup> place avec un score d'_accuracy_ de 97,7% (l'équipe gagnante a obtenu un score final de 98,1%). L'équipe s'est donc rendue à l'INSA Toulouse afin de présenter leur solution devant les autres participants et les organisateurs (incluant un expert en traitement d'images d'_Airbus Defence and Space_).
+
     L'équipe a été notamment félicitée pour la simplicité de leur méthode, compte tenu de leur score final.
 
 <u>Nom de l'équipe</u>: BumBumDATAm.\

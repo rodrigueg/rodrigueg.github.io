@@ -17,12 +17,13 @@ _My full resume is available [here](resume.pdf)._
 
 <span style='text-align: justify;'>
 
-Rodrigue got recruited at the ISEA laboratory as a Data Scientist. He got assigned to the following project: Analysis of freshwater and groundwater data in New Caledonia. During the project, Rodrigue used various statistic methods in order to define a threshold of potability of the water in New Caledonia. He also developed a user-friendly interface to visualize his analysis (including maps, statistical tests, PCA, ...).
+Rodrigue was recruited as a Data Scientist at the Institute of Exact and Applied Sciences (ISEA), University of New Caledonia (UNC). He was assigned to the following project: Data analysis on freshwater and groundwater in New Caledonia.
+For this project, Rodrigue applied various statistical methods to define a drinking water threshold specific to New Caledonia. In addition, he developed a graphical user interface to visualize all his analyses --including sampling maps and statistical tests-- with the aim of providing a decision-support tool.
 
-During this period, Rodrigue also had the opportunity to integrate the Data Science research team. At the end, he got involved in two research publications (in Time Series Clustering and in Computer Vision).
+During this period, Rodrigue also had the opportunity to join the Data Science research team. As a result, he contributed to the writing of two research papers, focusing respectively on time series analysis and image processing.
 
-<u>His work environment</u>: Python (Tensorflow, sklearn, seaborn, plotly, dash, ...), Jupyter notebook framework, QGIS, Microsoft Access.\
-<u>Link to the laboratory</u>: <a href="https://isea.unc.nc/" target="_blank">ISEA</a>
+<u>Work environment</u>: Python (TensorFlow, scikit-learn, seaborn, Plotly, Dash, ...), Jupyter Notebook, QGIS, Microsoft Access, PostgreSQL.
+<u>Institute website</u>: <a href="https://isea.unc.nc/" target="_blank">ISEA</a>
 
 </span>
 
@@ -32,10 +33,12 @@ During this period, Rodrigue also had the opportunity to integrate the Data Scie
 
 <span style='text-align: justify;'>
 
-To validate his degree, Rodrigue did a 6-months internship in a data-driven marketing SME. He was assigned to a Deep Learning project. More specifically, Rodrigue had to create a Deep Learning based Object detection model to detect residential pools from satellite images. During the internship, Rodrigue had to process over 200M images (~2TB of data). With his optimized algorithms, he went from 5 years of expected processing to 2 months of processing, which was congratulated from the entire R&D staff.
+To complete his Master’s degree, Rodrigue completed a six-month internship at a small-to-medium enterprise (SME) specializing in data-driven marketing. He was assigned to a Deep Learning project, where he developed an object detection method based on Deep Learning techniques to identify residential swimming pools from satellite imagery.
 
-<u>His work environment</u>: Python (Tensorflow, PyTorch, sklearn, seaborn, plotly, ...), Jupyter notebook framework, QGIS.\
-<u>Link to the company</u>: <a href="https://www.idaia.group/" target="_blank">IDAIA Group</a>
+During his internship, Rodrigue analyzed more than 200 million images (approximately 2 TB of data). Thanks to his optimized algorithm, he successfully processed the entire dataset in two months instead of the initially estimated five years, earning praise from the company’s Research and Development team.
+
+<u>Work environment</u>: Python (TensorFlow, PyTorch, scikit-learn, seaborn, Plotly, ...), Jupyter Notebook framework, QGIS.
+<u>Company website</u>: <a href="https://www.idaia.group/" target="_blank">IDAIA Group</a>
 
 </span>
 
@@ -47,9 +50,9 @@ To validate his degree, Rodrigue did a 6-months internship in a data-driven mark
 
 <span style='text-align: justify;'>
 
-Rodrigue defended his PhD in Computer on August, 21<sup>st</sup> 2025 at the University of New Caledonia. His thesis is entitled "_Deep Learning on Attributed Graphs for Mapping Leptospirosis Risk_" and was under the supervision of Prof. Nazha Selmaoui-Folcher from the University of New Caledonia, and Prof. Philippe Fournier-Viger from Shenzhen University, in China.
+Rodrigue defended his Ph.D. in Computer Science on August 21, 2025, at the University of New Caledonia. His dissertation, entitled "_Deep Learning on Attributed Graphs for Mapping Leptospirosis Risk_" was conducted under the supervision of Prof. Nazha Selmaoui-Folcher from the University of New Caledonia and Prof. Philippe Fournier-Viger from Shenzhen University, China.
 
-Go to the <a href="../research">Research</a> section for more information.
+See the <a href="../research">Research</a> section for more information.
 
 </span>
 
@@ -57,9 +60,10 @@ Go to the <a href="../research">Research</a> section for more information.
 
 <span style='text-align: justify;'>
 
-Rodrigue got his Master's degree in Applied Mathematics in 2019 at the University of Bordeaux (France). During his degree, among other classes, he got to explore theoretical aspect of Deep Learning, stochastic algorithms, methods used in Computer Vision and Signal Processing, Data Mining methods, and High dimensional statistics.
+In 2019, Rodrigue earned his Master’s degree in "Applied Mathematics and Statistics, specialization in Statistical and Stochastic Modeling" from the University of Bordeaux (France).
+During his studies, he explored, among other topics, the theoretical aspects of Deep Learning, stochastic algorithms, signal and image processing methods, as well as data mining and high-dimensional statistical techniques.
 
-    Rodrigue received his Master's degree with honors.
+    Rodrigue graduated with honors.
 
 </span>
 
@@ -69,12 +73,12 @@ Rodrigue got his Master's degree in Applied Mathematics in 2019 at the Universit
 
 <span style='text-align: justify;'>
 
-Rodrigue got his Bachelor's degree in Applied Math and Computer Science in 2017 at the University of Bordeaux (France). During his degree, he got to explore various aspects of Mathematics and Computer Science.
+In 2017, Rodrigue earned his Bachelor’s degree in “Mathematics and Computer Science Applied to Social Sciences, specialization in Economics and Management” from the University of Bordeaux (France).
+During his studies, he had the opportunity to acquire strong skills in both mathematics and computer science.
 
-In the field of Mathematics, among other classes, Rodrigue took classes of inferential statistics, econometrics, topology, and linear algebra.
+In mathematics, Rodrigue gained expertise in inferential statistics, econometrics, topology, and linear algebra.
+In computer science, he developed strong programming skills. He is particularly proficient in Python, R, and SQL, and also possesses advanced skills in \(\LaTeX\), MATLAB, SAS, Java, HTML, CSS, and PHP.
 
-In the field of Computer Science, Rodrigue got to learn various programming languages. He has an expertise in Python, R and SQL but he also has the basics in \\(\LaTeX\\), MATLAB, SAS, Java, HTML, CSS, and PHP.
-
-    Rodrigue received his Bachelor's degree with honors.
+    Rodrigue graduated with honors.
 
 </span>

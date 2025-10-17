@@ -7,7 +7,7 @@ layout: "simple"
 ---
 <!-- {{< katex >}} -->
 
-You will find here all the courses I teach.
+Here you can find the complete list of courses taught by Rodrigue.
 
 ## University of New Caledonia
 <div style="margin-bottom:-35px; margin-top:-25px; font-size:0.95rem">
