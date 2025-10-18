@@ -14,7 +14,7 @@ _Mon CV complet est disponible [ici](resume.pdf)._
 
 ## Professionnel
 
-### Data Scientist (Septembre 2020 à Décembre 2020) —— ISEA, Université de la Nouvelle-Calédonie
+### Data Scientist (Septembre 2020 à Décembre 2020) — ISEA, Université de la Nouvelle-Calédonie
 
 <span style='text-align: justify;'>
 
@@ -29,7 +29,7 @@ Durant cette période, Rodrigue a également eu l'opportunité d'intégrer l'éq
 
 <hr style="width:75%">
 
-### Stagiaire Data Scientist (Février 2019 à Août 2019) —— IDAIA Group, Bordeaux (France)
+### Stagiaire Data Scientist (Février 2019 à Août 2019) — IDAIA Group, Bordeaux (France)
 
 <span style='text-align: justify;'>
 
@@ -44,29 +44,35 @@ Pour valider son diplôme de Master, Rodrigue a réalisé un stage de 6 mois dan
 
 ## Académique
 
-### Doctorat, Informatique - _Data Science_ (Octobre 2021 à Août 2025) -- Université de la Nouvelle-Calédonie
+### Doctorat, Informatique - _Data Science_ (Octobre 2021 à Août 2025) — Université de la Nouvelle-Calédonie
 
 <span style='text-align: justify;'>
 
 Rodrigue a soutenu sa thèse en Informatique le 21 Août 2025 à l'Université de la Nouvelle-Calédonie. Sa thèse s'intitule "**_Apprentissage profond des graphes attribués pour la cartographie du risque de leptospirose_**" et a été réalisée sous la direction de Pr. Nazha <span style="font-variant: small-caps;">Selmaoui-Folcher</span> de l'Université de la Nouvelle-Calédonie et Pr. Philippe <span style="font-variant: small-caps;">Fournier-Viger</span> de la _Shenzhen University_ en Chine.
 
+<p style="background-color: rgb(200 200 200 / 20%); padding: 10px; padding-left: 15px; border-radius: 5px; font-family: 'Courier';">
 Voir la section <a href="../research">Recherche</a> pour plus d'informations.
-
-</span>
-
-### Master, Mathématiques Appliquées et Statistiques (2017 à 2019) —— Université de Bordeaux (France)
-
-<span style='text-align: justify;'>
-
-En 2019, Rodrigue a obtenu son diplôme de Master en "Mathématiques Appliquées et Statistiques, parcours Modélisation Statistique et Stochastique" à l'Université de Bordeaux (France). Durant son cursus, il a entres autres, eu l'occasion d'explorer les aspects théoriques du Deep Learning, les algorithmes stochastiques, les méthodes de traitement du signal et de l'image, les méthodes de fouille de données et de statistiques en grande dimension.
-
-    Rodrigue a obtenu son diplôme de Master avec mention.
+</p>
 
 </span>
 
 <hr style="width:75%">
 
-### Licence, Mathématiques et Informatique Appliquées (2014 à 2017) —— Université de Bordeaux (France)
+### Master, Mathématiques Appliquées et Statistiques (2017 à 2019) — Université de Bordeaux (France)
+
+<span style='text-align: justify;'>
+
+En 2019, Rodrigue a obtenu son diplôme de Master en "Mathématiques Appliquées et Statistiques, parcours Modélisation Statistique et Stochastique" à l'Université de Bordeaux (France). Durant son cursus, il a entres autres, eu l'occasion d'explorer les aspects théoriques du Deep Learning, les algorithmes stochastiques, les méthodes de traitement du signal et de l'image, les méthodes de fouille de données et de statistiques en grande dimension.
+
+<p style="background-color: rgb(200 200 200 / 20%); padding: 10px; padding-left: 15px; border-radius: 5px; font-family: 'Courier';">
+Rodrigue a obtenu son diplôme de Master avec mention.
+</p>
+
+</span>
+
+<hr style="width:75%">
+
+### Licence, Mathématiques et Informatique Appliquées (2014 à 2017) — Université de Bordeaux (France)
 
 <span style='text-align: justify;'>
 
@@ -75,6 +81,8 @@ En 2017, Rodrigue a obtenu son diplôme de Licence "Mathématiques et Informatiq
 En mathématiques, Rodrigue a notamment acquis des compétences en statistiques inférentielles, économétrie, topologie et en algèbre linéaire.
 En informatique, Rodrigue a acquis de fortes compétences dans différents langages de programmation. Il a notamment une expertise en Python, R et SQL, mais il a également des compétences avancées en \\(\LaTeX\\), MATLAB, SAS, Java, HTML, CSS et PHP.
 
-    Rodrigue a obtenu son diplôme de Licence avec mention.
+<p style="background-color: rgb(200 200 200 / 20%); padding: 10px; padding-left: 15px; border-radius: 5px; font-family: 'Courier';">
+Rodrigue a obtenu son diplôme de Licence avec mention.
+</span>
 
 </span>
