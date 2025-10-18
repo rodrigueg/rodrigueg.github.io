@@ -18,22 +18,22 @@ This thesis was conducted under the supervision of <a href="https://isea.unc.nc/
 The members of the thesis committee were as follows:
 <ul style="margin-top:-1em">
   <li style="line-height: 150%">
-    Christophe <span style="font-variant:small-caps;">Menkès</span>, Senior Research Scientist, <b>Chair</b> -- <span style="font-variant:small-caps;">Entropie</span>, French National Research Institute for Sustainable Development, New Caledonia
+    Christophe <span style="font-variant:small-caps;">Menkès</span>, Senior Research Scientist, <b>Chair</b> — <span style="font-variant:small-caps;">Entropie</span>, French National Research Institute for Sustainable Development, New Caledonia
   </li>
   <li style="line-height: 150%">
-    Thomas <span style="font-variant:small-caps;">Guyet</span>, Full Researcher, <b>Reviewer</b> -- AIstroSight, INRIA, Lyon, France
+    Thomas <span style="font-variant:small-caps;">Guyet</span>, Full Researcher, <b>Reviewer</b> — AIstroSight, INRIA, Lyon, France
   </li>
   <li style="line-height: 150%">
-    Luiz-Angelo <span style="font-variant:small-caps;">Steffenel</span>, Full Professor, <b>Reviewer</b> -- LICIIS, Université de Reims Champagne-Ardenne, France
+    Luiz-Angelo <span style="font-variant:small-caps;">Steffenel</span>, Full Professor, <b>Reviewer</b> — LICIIS, Université de Reims Champagne-Ardenne, France
   </li>
   <li style="line-height: 150%">
-    Cyrille <span style="font-variant:small-caps;">Goarant</span>, Habilitated Research Scientist, <b>Examiner</b> -- Public Health Department, South Pacific Community (SPC), New Caledonia
+    Cyrille <span style="font-variant:small-caps;">Goarant</span>, Habilitated Research Scientist, <b>Examiner</b> — Public Health Department, South Pacific Community (SPC), New Caledonia
   </li>
   <li style="line-height: 150%">
-    Corina <span style="font-variant:small-caps;">Iovan</span>, Research Scientist, <b>Examiner</b> -- <span style="font-variant:small-caps;">Entropie</span>, French National Research Institute for Sustainable Development, New Caledonia
+    Corina <span style="font-variant:small-caps;">Iovan</span>, Research Scientist, <b>Examiner</b> — <span style="font-variant:small-caps;">Entropie</span>, French National Research Institute for Sustainable Development, New Caledonia
   </li>
   <li style="line-height: 150%">
-    Nadia <span style="font-variant:small-caps;">Kabachi</span>, Full Professor, <b>Examiner</b> -- ERIC, Claude Bernard University Lyon 1, France
+    Nadia <span style="font-variant:small-caps;">Kabachi</span>, Full Professor, <b>Examiner</b> — ERIC, Claude Bernard University Lyon 1, France
   </li>
 </ul>
 
