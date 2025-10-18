@@ -14,7 +14,7 @@ _Mon CV complet est disponible [ici](resume.pdf)._
 
 ## Professionnel
 
-### Data Scientist (Septembre 2020 à Decembre 2020) —— ISEA, Université de la Nouvelle-Calédonie
+### Data Scientist (Septembre 2020 à Décembre 2020) —— ISEA, Université de la Nouvelle-Calédonie
 
 <span style='text-align: justify;'>
 
@@ -22,7 +22,7 @@ Rodrigue a été recruté à l'Institut de Sciences Exactes et Appliquées (UNC)
 
 Durant cette période, Rodrigue a également eu l'opportunité d'intégrer l'équipe de recherche en Data Science. Au final, il a pu contribuer à la rédaction de deux articles de recherche (dans l'analyse de séries temporelles et dans le traitement d'images).
 
-<u>Environnment de travail</u> : Python (Tensorflow, sklearn, seaborn, plotly, dash, ...), Jupyter Notebook, QGIS, Microsoft Access, PostGreSQL.\
+<u>Environnement de travail</u> : Python (Tensorflow, sklearn, seaborn, plotly, dash, ...), Jupyter Notebook, QGIS, Microsoft Access, PostGreSQL.\
 <u>Site web vers l'institut</u> : <a href="https://isea.unc.nc/" target="_blank">ISEA</a>
 
 </span>
@@ -48,7 +48,7 @@ Pour valider son diplôme de Master, Rodrigue a réalisé un stage de 6 mois dan
 
 <span style='text-align: justify;'>
 
-Rodrigue a soutenu sa thèse en Informatique le 21 Août 2025 à l'Université de la Nouvelle-Calédonie. Sa thèse s'intitule "_Apprentissage profond des graphes attribués pour la cartographie du risque de leptospirose_" et a été réalisée sous la direction de Pr. Nazha Selmaoui-Folcher de l'Université de la Nouvelle-Calédonie et Pr. Philippe Fournier-Viger de la _Shenzhen University_ en Chine.
+Rodrigue a soutenu sa thèse en Informatique le 21 Août 2025 à l'Université de la Nouvelle-Calédonie. Sa thèse s'intitule "**_Apprentissage profond des graphes attribués pour la cartographie du risque de leptospirose_**" et a été réalisée sous la direction de Pr. Nazha <span style="font-variant: small-caps;">Selmaoui-Folcher</span> de l'Université de la Nouvelle-Calédonie et Pr. Philippe <span style="font-variant: small-caps;">Fournier-Viger</span> de la _Shenzhen University_ en Chine.
 
 Voir la section <a href="../research">Recherche</a> pour plus d'informations.
 

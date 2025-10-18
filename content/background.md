@@ -50,7 +50,7 @@ During his internship, Rodrigue analyzed more than 200 million images (approxima
 
 <span style='text-align: justify;'>
 
-Rodrigue defended his Ph.D. in Computer Science on August 21, 2025, at the University of New Caledonia. His dissertation, entitled "_Deep Learning on Attributed Graphs for Mapping Leptospirosis Risk_" was conducted under the supervision of Prof. Nazha Selmaoui-Folcher from the University of New Caledonia and Prof. Philippe Fournier-Viger from Shenzhen University, China.
+Rodrigue defended his Ph.D. in Computer Science on August 21, 2025, at the University of New Caledonia. His dissertation, entitled "**_Deep Learning on Attributed Graphs for Mapping Leptospirosis Risk_**" was conducted under the supervision of Prof. Nazha <span style="font-variant: small-caps;">Selmaoui-Folcher</span> from the University of New Caledonia and Prof. Philippe <span style="font-variant: small-caps;">Fournier-Viger</span> from Shenzhen University, China.
 
 See the <a href="../research">Research</a> section for more information.
 
