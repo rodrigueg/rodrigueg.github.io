@@ -172,7 +172,7 @@ td, thead, tbody, tr {
   </tr>
 </table>
 
-## Posters et _workshops_
+## Posters and workshops
 
 <table>
   <tr>
