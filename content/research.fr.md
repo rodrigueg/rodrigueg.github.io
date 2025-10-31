@@ -36,7 +36,7 @@ Les membres du jury de la thèse sont les suivants :
   </li>
 </ul>
 
-Le manuscrit de thèse est actuellement en cours de publication, mais la soutenance est disponible [ici](https://www.youtube.com/watch?v=7AvJPTxWxPU).
+Le manuscrit de thèse est disponible [ici](https://hal.science/tel-05268357), et la soutenance est disponible [ici](https://www.youtube.com/watch?v=7AvJPTxWxPU).
 
 Cette thèse a exploré les méthodes d'apprentissage supervisé appliquées à la cartographie du risque de leptospirose en Nouvelle-Calédonie. Pour cela, une approche holistique est considérée, en collectant, pré-traitant et intégrant une large variété de données, qu'elles soient météorologiques, environnementales ou socio-démographiques. La cartographie du risque a été réalisée à l'aide de l'ensemble des cas de leptospirose entre 2011 et 2022, à une échelle spatiale plus fine que celle de la commune, le tout sur un pas de temps mensuel. Cette granularité spatio-temporelle s'est alors traduite en un véritable défi de données déséquilibrées. Couplées à maintes stratégies d'échantillonnage des données, deux approches ont été développées.
 
@@ -51,8 +51,6 @@ Durant cette thèse, Rodrigue a également dispensé des enseignements aux étud
 </span>
 
 <br>
-
-# Publications
 
 <style>
 td, thead, tbody, tr {
@@ -83,73 +81,129 @@ td, thead, tbody, tr {
   padding-bottom:2px;
 }
 </style>
+# Publications
+
+## Revues internationales avec comité de lecture
 
 <table>
   <tr>
-    <td style="text-align:center">[11]</td>
-    <td style="text-align:justify">
-      <b>Govan, R.</b>, Scherrer, R., Fournier-Viger, P., Selmaoui-Folcher, N. (2025). <b><span style="font-variant-caps: small-caps;">SpaPool</span>: Soft Partition Assignment Pooling for Graph Neural Networks</b>. In: Leung, C.K., Dignös, A., Kotsis, G., Tjoa, A.M., Khalil, I. (eds) <i>Big Data Analytics and Knowledge Discovery. DaWaK 2025</i>. Lecture Notes in Computer Science, vol 16048. Springer, Cham. <br><a href="https://dx.doi.org/10.1007/978-3-032-02215-8_27" class="bib" target="_blank">html</a> <a href="Govan2025d.bib" class="bib" target="_blank">bib</a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="text-align:center">[10]</td>
-    <td style="text-align:justify">
-      <b>Govan, R.</b>, Scherrer, R., Fournier-Viger, P., Selmaoui-Folcher, N. (2025). <b><i>Pooling</i> de <i>Graph Neural Networks</i> : une approche dense mais adaptative</b>. In: <i>CNIA 2025-Conférence Nationale en Intelligence Artificielle,</i> PFIA (No. 55-63). <br><a href="https://hal.science/hal-05197596v1" class="bib" target="_blank">html</a> <a href="Govan2025c.bib" class="bib" target="_blank">bib</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center">[9]</td>
-    <td style="text-align:justify">
-      <b>Govan, R.</b>, Scherrer, R., Goarant, C., Cannet, A., Fournier-Viger, P., Selmaoui-Folcher, N. (2025, January). <b>Cartographie du risque épidémiologique : Le défi des données fortement déséquilibrées</b>. In: <i>Revue des Nouvelles Technologies de l'Information, 25èmes Journées Francophones Extraction et Gestion des Connaissances, EGC 2025</i>, vol. RNTI-E-41. (pp. 159-170). <br><a href="https://hal.science/hal-04945686" class="bib" target="_blank">html</a> <a href="Govan2025b.bib" class="bib" target="_blank">bib</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center">[8]</td>
+    <td style="text-align:center">[3]</td>
     <td style="text-align:justify">
       <b>Govan, R.</b>, Scherrer, R., Fougeron, B., Laporte-Magoni, C., Thibeaux, R., Genthon, P., Fournier-Viger, P., Goarant, C., Selmaoui-Folcher, N. (2025). <b>Spatio-temporal risk prediction of leptospirosis: A machine-learning-based approach</b>. In: <i>PLOS Neglected Tropical Diseases, 19</i>(1), e0012755. <br><a href="https://doi.org/10.1371/journal.pntd.0012755" class="bib" target="_blank">html</a> <a href="Govan2025a.bib" class="bib" target="_blank">bib</a>
     </td>
   </tr>
+
   <tr>
-    <td style="text-align:center">[7]</td>
+    <td style="text-align:center">[2]</td>
     <td style="text-align:justify">
       Thibeaux, R., Genthon, P., <b>Govan, R.</b>, Selmaoui-Folcher, N., Tramier, C., Kainiu, M., Soupé-Gilbert, M.-E., Wijesuriya, K., Goarant, C. (2024). <b>Rainfall-driven resuspension of pathogenic Leptospira in a leptospirosis hotspot</b>. In: <i>Science of The Total Environment, 911</i>, 168700. <br><a href="https://doi.org/10.1016/j.scitotenv.2023.168700" class="bib" target="_blank">html</a> <a href="Thibeaux2024.bib" class="bib" target="_blank">bib</a>
     </td>
   </tr>
+
   <tr>
-    <td style="text-align:center">[6]</td>
-    <td style="text-align:justify">
-      <b>Govan, R.</b>, Selmaoui-Folcher, N., Giannakos, A., Fournier-Viger, P. (2023). <b>Co-location Pattern Mining Under the Spatial Structure Constraint</b>. In: Strauss, C., Amagasa, T., Kotsis, G., Tjoa, A.M., Khalil, I. (eds) <i>Database and Expert Systems Applications. DEXA 2023</i>. Lecture Notes in Computer Science, vol 14146. Springer, Cham. <br><a href="https://doi.org/10.1007/978-3-031-39847-6_13" class="bib" target="_blank">html</a> <a href="Govan2023b.bib" class="bib" target="_blank">bib</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center">[5]</td>
-    <td style="text-align:justify">
-      <b>Govan, R.</b>, Selmaoui-Folcher, N., Giannakos, A., Fournier-Viger, P. (2023, July). <b>Extraction de co-localisations sous contrainte de la structure spatiale</b>. In: <i>CNIA 2023-Conférence Nationale en Intelligence Artificielle</i>, PFIA (No. 53-61). <br><a href="https://hal.science/hal-04164263/" class="bib" target="_blank">html</a> <a href="Govan2023a.bib" class="bib" target="_blank">bib</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center">[4]</td>
-    <td style="text-align:justify">
-      Tokotoko, J., <b>Govan, R.</b>, Lemonnier, H., Selmaoui-Folcher, N. (2022). <b>Multiscale and Multivariate Time Series Clustering: A New Approach</b>. In: Ceci, M., Flesca, S., Masciari, E., Manco, G., Raś, Z.W. (eds) <i>Foundations of Intelligent Systems. ISMIS 2022</i>. Lecture Notes in Computer Science(), vol 13515. Springer, Cham. <br><a href="https://doi.org/10.1007/978-3-031-16564-1_27" class="bib" target="_blank">html</a> <a href="Tokotoko2022.bib" class="bib" target="_blank">bib</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center">[3]</td>
+    <td style="text-align:center">[1]</td>
     <td style="text-align:justify">
       Scherrer, R., <b>Govan, R.</b>, Quiniou, T., Jauffrais, T., Lemonnier, H., Bonnet, S., Selmaoui-Folcher, N. (2022). <b>Real-Time Automatic Plankton Detection, Tracking and Classification on Raw Hologram</b>. In: <i>International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics</i> (pp. 25-39). Springer, Cham. <br><a href="https://doi.org/10.1007/978-3-031-20837-9_3" class="bib" target="_blank">html</a> <a href="Scherrer2022.bib" class="bib" target="_blank">bib</a>
     </td>
   </tr>
+</table>
+
+## Conférences internationales avec comité de lecture
+
+<table>
+  <tr>
+    <td style="text-align:center">[5]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b>, Scherrer, R., Fournier-Viger, P., Selmaoui-Folcher, N. (2025). <b><span style="font-variant-caps: small-caps;">SpaPool</span>: Soft Partition Assignment Pooling for Graph Neural Networks</b>. In: Leung, C.K., Dignös, A., Kotsis, G., Tjoa, A.M., Khalil, I. (eds) <i>Big Data Analytics and Knowledge Discovery. DaWaK 2025</i>. Lecture Notes in Computer Science, vol 16048. Springer, Cham. <br><a href="https://dx.doi.org/10.1007/978-3-032-02215-8_27" class="bib" target="_blank">html</a> <a href="Govan2025d.bib" class="bib" target="_blank">bib</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center">[4]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b>, Selmaoui-Folcher, N., Giannakos, A., Fournier-Viger, P. (2023). <b>Co-location Pattern Mining Under the Spatial Structure Constraint</b>. In: Strauss, C., Amagasa, T., Kotsis, G., Tjoa, A.M., Khalil, I. (eds) <i>Database and Expert Systems Applications. DEXA 2023</i>. Lecture Notes in Computer Science, vol 14146. Springer, Cham. <br><a href="https://doi.org/10.1007/978-3-031-39847-6_13" class="bib" target="_blank">html</a> <a href="Govan2023b.bib" class="bib" target="_blank">bib</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center">[3]</td>
+    <td style="text-align:justify">
+      Tokotoko, J., <b>Govan, R.</b>, Lemonnier, H., Selmaoui-Folcher, N. (2022). <b>Multiscale and Multivariate Time Series Clustering: A New Approach</b>. In: Ceci, M., Flesca, S., Masciari, E., Manco, G., Raś, Z.W. (eds) <i>Foundations of Intelligent Systems. ISMIS 2022</i>. Lecture Notes in Computer Science(), vol 13515. Springer, Cham. <br><a href="https://doi.org/10.1007/978-3-031-16564-1_27" class="bib" target="_blank">html</a> <a href="Tokotoko2022.bib" class="bib" target="_blank">bib</a>
+    </td>
+  </tr>
+
   <tr>
     <td style="text-align:center">[2]</td>
     <td style="text-align:justify">
       Scherrer, R., <b>Govan, R.</b>, Quiniou, T., Jauffrais, T., Lemonnier, H., Bonnet, S., Selmaoui-Folcher, N. (2021, November). <b>Automatic Plankton Detection and Classification on Raw Hologram with a Single Deep Learning Architecture</b>. In: <i>CIBB 2021 Computational Intelligence Methods for Bioinformatics and Biostatistics</i>. <br><a href="https://hal.science/hal-03565469" class="bib" target="_blank">html</a> <a href="Scherrer2021.bib" class="bib" target="_blank">bib</a>
     </td>
   </tr>
+
   <tr>
     <td style="text-align:center">[1]</td>
     <td style="text-align:justify">
       Tokotoko, J., Selmaoui-Folcher, N., <b>Govan, R.</b>, Lemonnier, H. (2021). <b>TSX-Means: An Optimal K Search Approach for Time Series Clustering</b>. In: Strauss, C., Kotsis, G., Tjoa, A.M., Khalil, I. (eds) <i>Database and Expert Systems Applications. DEXA 2021</i>. Lecture Notes in Computer Science(), vol 12924. Springer, Cham. <br><a href="https://doi.org/10.1007/978-3-030-86475-0_23" class="bib" target="_blank">html</a> <a href="Tokotoko2021.bib" class="bib" target="_blank">bib</a>
+    </td>
+  </tr>
+</table>
+
+## Conférences nationales avec comité de lecture
+
+<table>
+  <tr>
+    <td style="text-align:center">[3]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b>, Scherrer, R., Fournier-Viger, P., Selmaoui-Folcher, N. (2025). <b><i>Pooling</i> de <i>Graph Neural Networks</i> : une approche dense mais adaptative</b>. In: <i>CNIA 2025-Conférence Nationale en Intelligence Artificielle,</i> PFIA (No. 55-63). <br><a href="https://hal.science/hal-05197596v1" class="bib" target="_blank">html</a> <a href="Govan2025c.bib" class="bib" target="_blank">bib</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center">[2]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b>, Scherrer, R., Goarant, C., Cannet, A., Fournier-Viger, P., Selmaoui-Folcher, N. (2025, January). <b>Cartographie du risque épidémiologique : Le défi des données fortement déséquilibrées</b>. In: <i>Revue des Nouvelles Technologies de l'Information, 25èmes Journées Francophones Extraction et Gestion des Connaissances, EGC 2025</i>, vol. RNTI-E-41. (pp. 159-170). <br><a href="https://hal.science/hal-04945686" class="bib" target="_blank">html</a> <a href="Govan2025b.bib" class="bib" target="_blank">bib</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center">[1]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b>, Selmaoui-Folcher, N., Giannakos, A., Fournier-Viger, P. (2023, July). <b>Extraction de co-localisations sous contrainte de la structure spatiale</b>. In: <i>CNIA 2023-Conférence Nationale en Intelligence Artificielle</i>, PFIA (No. 53-61). <br><a href="https://hal.science/hal-04164263/" class="bib" target="_blank">html</a> <a href="Govan2023a.bib" class="bib" target="_blank">bib</a>
+    </td>
+  </tr>
+</table>
+
+## Posters et _workshops_
+
+<table>
+  <tr>
+    <td style="text-align:center">[2]</td>
+    <td style="text-align:justify">
+      Genthon, P., Thibeaux, R., Selmaoui-Folcher, N., <b>Govan, R.</b>, Kainiu, M., Soupé-Gilbert, M. E., Goarant, C. (2024). <b>Leptospira in Rivers of a Leptospirosis Hotspot: Scale Effects</b>. In: <i>AGU Fall Meeting Abstracts</i>, (Vol. 2024, No. 1055, pp. H13D-1055). <br><a href="https://ui.adsabs.harvard.edu/abs/2024AGUFMH13D.1055G" class="bib" target="_blank">html</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center">[1]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b> (2022). <b>Graphes Attribués Dynamiques et Évolutifs : Application à la Cartographie du Risque de Leptospirose en Nouvelle-Calédonie</b>. In: <i>15<sup>ème</sup> Édition des Doctoriales</i>. École Doctorale du Pacifique (ED 469). Université de la Nouvelle-Calédonie.
+    </td>
+  </tr>
+</table>
+
+## Rapports et thèse
+
+<table>
+  <tr>
+    <td style="text-align:center">[2]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b> (2025). <b>Apprentissage profond des graphes attribués pour la cartographie du risque de leptospirose</b>. Thèse de Doctorat. Université de la Nouvelle-Calédonie.<br><a href="https://hal.science/tel-05268357" class="bib" target="_blank">html</a> <a href="Govan2025e.bib" class="bib" target="_blank">bib</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center">[1]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b> (2019). <b>Apprentissage profond : Détection de piscines résidentielles en France</b>. Thèse de Master. Université de Bordeaux, France.
     </td>
   </tr>
 </table>
