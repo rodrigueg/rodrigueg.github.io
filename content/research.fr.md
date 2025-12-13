@@ -178,14 +178,14 @@ td, thead, tbody, tr {
   <tr>
     <td style="text-align:center">[2]</td>
     <td style="text-align:justify">
-      Genthon, P., Thibeaux, R., Selmaoui-Folcher, N., <b>Govan, R.</b>, Kainiu, M., Soupé-Gilbert, M. E., Goarant, C. (2024). <b>Leptospira in Rivers of a Leptospirosis Hotspot: Scale Effects</b>. In: <i>AGU Fall Meeting Abstracts</i>, (Vol. 2024, No. 1055, pp. H13D-1055). <br><a href="https://ui.adsabs.harvard.edu/abs/2024AGUFMH13D.1055G" class="bib" target="_blank">html</a>
+      Genthon, P., Thibeaux, R., Selmaoui-Folcher, N., <b>Govan, R.</b>, Kainiu, M., Soupé-Gilbert, M.-E., and Goarant, C. (2025). <b>Leptospirosis: a critical zone disease?</b> In: <i>3<sup>rd</sup> OZCAR TERENO International Conference, Advancing Critical Zone Science</i>. (Vol. 2025, pp. S14-P2).<br><a href="https://hal.science/hal-05387574" class="bib" target="_blank">html</a>
     </td>
   </tr>
 
   <tr>
     <td style="text-align:center">[1]</td>
     <td style="text-align:justify">
-      <b>Govan, R.</b> (2022). <b>Graphes Attribués Dynamiques et Évolutifs : Application à la Cartographie du Risque de Leptospirose en Nouvelle-Calédonie</b>. In: <i>15<sup>ème</sup> Édition des Doctoriales</i>. École Doctorale du Pacifique (ED 469). Université de la Nouvelle-Calédonie.
+      Genthon, P., Thibeaux, R., Selmaoui-Folcher, N., <b>Govan, R.</b>, Kainiu, M., Soupé-Gilbert, M. E., Goarant, C. (2024). <b>Leptospira in Rivers of a Leptospirosis Hotspot: Scale Effects</b>. In: <i>AGU Fall Meeting Abstracts</i>, (Vol. 2024, No. 1055, pp. H13D-1055). <br><a href="https://ui.adsabs.harvard.edu/abs/2024AGUFMH13D.1055G" class="bib" target="_blank">html</a>
     </td>
   </tr>
 </table>
@@ -208,4 +208,29 @@ td, thead, tbody, tr {
   </tr>
 </table>
 
-<br>
+## Autres communications
+
+<table>
+  <tr>
+    <td style="text-align:center">[3]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b>, Parmentier, J.-B., and Quiniou T. (2025). <b>Découverte d’un modèle 3D interactif de la Nouvelle-Calédonie</b>. In: <i>8<sup>ème</sup> Édition de la Nuit de la Science, Fête de la Science 2025</i>. Université de la Nouvelle-Calédonie.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center">[2]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b> (2023). <b>La recherche scientifique au service de la <i>data</i></b>. In: <i>7<sup>ème</sup> meetup consacré à la data</i>. ISI-NC, OoTech. Nouvelle-Calédonie.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center">[1]</td>
+    <td style="text-align:justify">
+      <b>Govan, R.</b> (2022). <b>Graphes Attribués Dynamiques et Évolutifs : Application à la Cartographie du Risque de Leptospirose en Nouvelle-Calédonie</b>. In: <i>15<sup>ème</sup> Édition des Doctoriales</i>. École Doctorale du Pacifique (ED 469). Université de la Nouvelle-Calédonie.
+    </td>
+  </tr>
+</table>
+
+<!-- <br> -->
