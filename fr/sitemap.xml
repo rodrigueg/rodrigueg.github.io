@@ -4,16 +4,16 @@
   
     
       <url>
-            <loc>/fr/about/</loc>
+            <loc>/fr/_about/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="/about/"
+              href="/_about/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="fr"
-              href="/fr/about/"
+              href="/fr/_about/"
               />
           </url>
     

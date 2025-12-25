@@ -9,9 +9,9 @@
     <atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos</title>
-      <link>/fr/about/</link>
+      <link>/fr/_about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/fr/about/</guid>
+      <guid>/fr/_about/</guid>
       <description>Salut !</description>
     </item>
     <item>
