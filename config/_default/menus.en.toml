@@ -30,10 +30,10 @@
   url = "/teaching/"
   weight = 40
 
-[[main]]
-  name = "About"
-  url = "/about/"
-  weight = 50
+# [[main]]
+#   name = "About"
+#   url = "/about/"
+#   weight = 50
 
 [[main]]
   identifier = "appearance"
