@@ -5,7 +5,8 @@ on:
 
 jobs:
   stale:
-    runs-on: [self-hosted, pi5-8gb]
+    #runs-on: [self-hosted, pi5-8gb]
+    runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write

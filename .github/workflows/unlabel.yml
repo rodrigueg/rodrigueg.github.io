@@ -8,7 +8,8 @@ on:
 
 jobs:
   unlabel:
-    runs-on: [self-hosted, pi5-8gb]
+    #runs-on: [self-hosted, pi5-8gb]
+    runs-on: ubuntu-latest
     steps:
       - name: Remove labels
         uses: andymckay/labeler@master

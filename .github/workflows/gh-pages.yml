@@ -8,7 +8,8 @@ on:
 jobs:
   build-deploy:
     name: Build and Deploy
-    runs-on: [self-hosted, pi5-8gb]
+    #runs-on: [self-hosted, pi5-8gb]
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:

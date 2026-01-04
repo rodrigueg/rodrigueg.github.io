@@ -5,7 +5,8 @@ on: [pull_request_target]
 jobs:
   label:
     name: Label
-    runs-on: [self-hosted, pi5-8gb]
+    #runs-on: [self-hosted, pi5-8gb]
+    runs-on: ubuntu-latest
     permissions:
       contents: read
       pull-requests: write

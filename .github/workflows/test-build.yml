@@ -5,7 +5,8 @@ on: [push]
 jobs:
   build:
     name: Build Example Site
-    runs-on: [self-hosted, pi5-8gb]
+    #runs-on: [self-hosted, pi5-8gb]
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:

@@ -4,7 +4,8 @@ on: [pull_request_target]
 
 jobs:
   build:
-    runs-on: [self-hosted, pi5-8gb]
+    #runs-on: [self-hosted, pi5-8gb]
+    runs-on: ubuntu-latest
     if: ${{ github.actor == 'dependabot[bot]' }}
     steps:
       - name: Checkout
