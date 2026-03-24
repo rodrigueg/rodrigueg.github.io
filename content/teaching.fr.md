@@ -7,8 +7,6 @@ layout: "simple"
 ---
 <!-- {{< katex >}} -->
 
-<br>
-
 ## Qualifications aux fonctions de maître de conférences — Conseil National des Universités
 
 <style>
