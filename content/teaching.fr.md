@@ -7,7 +7,32 @@ layout: "simple"
 ---
 <!-- {{< katex >}} -->
 
-Vous trouverez ici l’ensemble des enseignements que Rodrigue dispense.
+<br>
+
+## Qualifications aux fonctions de maître de conférences — Conseil National des Universités
+
+<style>
+td, thead, tbody, tr {
+   background-color: none;
+   vertical-align: top;
+   text-align: justify;
+   font-size: 1rem;
+}
+</style>
+
+<table>
+  <tr>
+    <td style="text-align:left; width:13.5%">2026 — 2030</td>
+    <td style="text-align:justify">
+      Section 27 : Informatique ;<br>
+      Section 61 : Génie Informatique, Automatique et Traitement du Signal.
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+Dans les sections qui suivent, vous trouverez ici l’ensemble des enseignements que Rodrigue dispense.
 
 ## Université de la Nouvelle-Calédonie
 

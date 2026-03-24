@@ -7,7 +7,32 @@ layout: "simple"
 ---
 <!-- {{< katex >}} -->
 
-Here you can find the complete list of courses taught by Rodrigue.
+<br>
+
+## National qualification for Associate Professor positions — French National Council of Universities (CNU)
+
+<style>
+td, thead, tbody, tr {
+   background-color: none;
+   vertical-align: top;
+   text-align: justify;
+   font-size: 1rem;
+}
+</style>
+
+<table>
+  <tr>
+    <td style="text-align:left; width:13.5%">2026 — 2030</td>
+    <td style="text-align:justify">
+      Section 27: Computer Science;<br>
+      Section 61: Computer Engineering, Automation, and Signal Processing.
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+In the following sections, you can find the complete list of courses taught by Rodrigue.
 
 ## University of New Caledonia
 <div style="margin-bottom:-35px; margin-top:-25px; font-size:0.95rem">
