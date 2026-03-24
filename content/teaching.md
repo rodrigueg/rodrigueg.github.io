@@ -7,6 +7,8 @@ layout: "simple"
 ---
 <!-- {{< katex >}} -->
 
+<div style="height: 0.5px;"></div>
+
 ## National qualification for Associate Professor positions — French National Council of Universities (CNU)
 
 <style>
