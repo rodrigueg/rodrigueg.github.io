@@ -87,6 +87,13 @@ td, thead, tbody, tr {
 
 <table>
   <tr>
+    <td style="text-align:center">[4]</td>
+    <td style="text-align:justify">
+      Thibeaux, R., Genthon, P., <b>Govan, R.</b>, Selmaoui-Folcher, N., Peltier, A., Kainiu, M., Soupé-Gilbert, M.-E., Yu, O., Tramier, C., Wijesurriya, K., Goarant, C. (2026). <b>Comparison of Leptosira concentrations in two rivers within contrasting catchments in a leptospirosis hotspot</b>. In: <i>Journal of Contaminant Hydrology, 281</i>, 104984. <br><a href="https://doi.org/10.1016/j.jconhyd.2026.104984" class="bib" target="_blank">html</a> <a href="Thibeaux2026.bib" class="bib" target="_blank">bib</a>
+    </td>
+  </tr>
+
+  <tr>
     <td style="text-align:center">[3]</td>
     <td style="text-align:justify">
       <b>Govan, R.</b>, Scherrer, R., Fougeron, B., Laporte-Magoni, C., Thibeaux, R., Genthon, P., Fournier-Viger, P., Goarant, C., Selmaoui-Folcher, N. (2025). <b>Spatio-temporal risk prediction of leptospirosis: A machine-learning-based approach</b>. In: <i>PLOS Neglected Tropical Diseases, 19</i>(1), e0012755. <br><a href="https://doi.org/10.1371/journal.pntd.0012755" class="bib" target="_blank">html</a> <a href="Govan2025a.bib" class="bib" target="_blank">bib</a>
@@ -172,13 +179,13 @@ td, thead, tbody, tr {
   </tr>
 </table>
 
-## Posters and workshops
+## Posters and workshops with peer review
 
 <table>
   <tr>
     <td style="text-align:center">[2]</td>
     <td style="text-align:justify">
-      Genthon, P., Thibeaux, R., Selmaoui-Folcher, N., <b>Govan, R.</b>, Kainiu, M., Soupé-Gilbert, M.-E., and Goarant, C. (2025). <b>Leptospirosis: a critical zone disease?</b> In: <i>3<sup>rd</sup> OZCAR TERENO International Conference, Advancing Critical Zone Science</i>. (Vol. 2025, pp. S14-P2).<br><a href="https://hal.science/hal-05387574" class="bib" target="_blank">html</a>
+      Genthon, P., Thibeaux, R., Selmaoui-Folcher, N., <b>Govan, R.</b>, Kainiu, M., Soupé-Gilbert, M.-E., Goarant, C. (2025). <b>Leptospirosis: a critical zone disease?</b> In: <i>3<sup>rd</sup> OZCAR TERENO International Conference, Advancing Critical Zone Science</i>. (Vol. 2025, pp. S14-P2).<br><a href="https://hal.science/hal-05387574" class="bib" target="_blank">html</a>
     </td>
   </tr>
 
@@ -212,9 +219,16 @@ td, thead, tbody, tr {
 
 <table>
   <tr>
+    <td style="text-align:center">[4]</td>
+    <td style="text-align:justify">
+      Thibeaux, R., Genthon, P., Goarant, C., <b>Govan, R.</b>, Selmaoui-Folcher N. (2025). <b>Understanding and Predicting Leptospirosis: Risk Modeling Based on Environmental Data</b>. In: <i>C’Nature Conference « What if we could predict leptospirosis outbreaks? »</i>. French. Noumea, New Caledonia. <br><a href="https://hal.science/hal-05615237" class="bib" target="_blank">html</a>
+    </td>
+  </tr>
+
+  <tr>
     <td style="text-align:center">[3]</td>
     <td style="text-align:justify">
-      <b>Govan, R.</b>, Parmentier, J.-B., and Quiniou T. (2025). <b>Discovering an interactive 3D model of New Caledonia</b>. In: <i>8<sup>th</sup> Edition of Science Evening, Science Fair 2025</i>. University of New Caledonia.
+      <b>Govan, R.</b>, Parmentier, J.-B., Quiniou T. (2025). <b>Discovering an interactive 3D model of New Caledonia</b>. In: <i>8<sup>th</sup> Edition of Science Evening, Science Fair 2025</i>. University of New Caledonia.
     </td>
   </tr>
 
