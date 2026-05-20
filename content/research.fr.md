@@ -219,9 +219,16 @@ td, thead, tbody, tr {
 
 <table>
   <tr>
+    <td style="text-align:center">[5]</td>
+    <td style="text-align:justify">
+      Thibeaux, R., Genthon, P., Goarant, C., <b>Govan, R.</b>, Selmaoui-Folcher N. (2026). <b>Comprendre et prévoir la leptospirose~: modélisation du risque fondée sur les données environnementales</b>. In: <i>Conférence C’Nature « Et si l’on pouvait anticiper les épidémies de leptospirose ? »</i>. Nouméa, Nouvelle-Calédonie. <br><a href="https://hal.science/hal-05615237" class="bib" target="_blank">html</a>
+    </td>
+  </tr>
+
+  <tr>
     <td style="text-align:center">[4]</td>
     <td style="text-align:justify">
-      Thibeaux, R., Genthon, P., Goarant, C., <b>Govan, R.</b>, Selmaoui-Folcher N. (2025). <b>Comprendre et prévoir la leptospirose~: modélisation du risque fondée sur les données environnementales</b>. In: <i>Conférence C’Nature « Et si l’on pouvait anticiper les épidémies de leptospirose ? »</i>. Nouméa, Nouvelle-Calédonie. <br><a href="https://hal.science/hal-05615237" class="bib" target="_blank">html</a>
+      <b>Govan, R.</b>, Thibeaux, R., Selmaoui-Folcher N. (2026). <b>Cartographie du risque de leptospirose : une approche holistique</b>. In: <i>Analyse et Gestion des Données médicales spatio-temporelles (DoMeST), Gestion et Analyse de données Spatiales et Temporelles (GAST)</i>. Villejuif, France. <br><a href="https://hal.science/hal-05627150" class="bib" target="_blank">html</a>
     </td>
   </tr>
 

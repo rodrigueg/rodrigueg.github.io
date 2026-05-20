@@ -219,9 +219,16 @@ td, thead, tbody, tr {
 
 <table>
   <tr>
+    <td style="text-align:center">[5]</td>
+    <td style="text-align:justify">
+      Thibeaux, R., Genthon, P., Goarant, C., <b>Govan, R.</b>, Selmaoui-Folcher N. (2026). <b>Understanding and Predicting Leptospirosis: Risk Modeling Based on Environmental Data</b>. In: <i>C’Nature Conference « What if we could predict leptospirosis outbreaks? »</i>. French. Noumea, New Caledonia. <br><a href="https://hal.science/hal-05615237" class="bib" target="_blank">html</a>
+    </td>
+  </tr>
+
+  <tr>
     <td style="text-align:center">[4]</td>
     <td style="text-align:justify">
-      Thibeaux, R., Genthon, P., Goarant, C., <b>Govan, R.</b>, Selmaoui-Folcher N. (2025). <b>Understanding and Predicting Leptospirosis: Risk Modeling Based on Environmental Data</b>. In: <i>C’Nature Conference « What if we could predict leptospirosis outbreaks? »</i>. French. Noumea, New Caledonia. <br><a href="https://hal.science/hal-05615237" class="bib" target="_blank">html</a>
+      <b>Govan, R.</b>, Thibeaux, R., Selmaoui-Folcher N. (2026). <b>Mapping the risk of leptospirosis: a holistic approach</b>. In: <i>Analysis and Management of Spatio-Temporal Medical Data (DoMeST), Management and Analysis of Spatial and Temporal Data (GAST)</i>. French. Villejuif, France. <br><a href="https://hal.science/hal-05627150" class="bib" target="_blank">html</a>
     </td>
   </tr>
 
